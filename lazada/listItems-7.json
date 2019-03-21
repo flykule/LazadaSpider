@@ -1,0 +1,3148 @@
+[
+    [
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "213623496_VNAMZ-267568492", 
+                    "skuId": "267568492"
+                }
+            ], 
+            "brandId": "18094", 
+            "brandName": "OEM", 
+            "categories": [
+                4403, 
+                4564, 
+                11421, 
+                11433, 
+                11434
+            ], 
+            "cheapest_sku": "213623496_VNAMZ-267568492", 
+            "clickTrace": "query:bluetooth;nid:213623496;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:213623496_VNAMZ;price:16900.00;client:desktop;supplier_id:100172403;asc_category_id:11434;item_id:213623496;sku_id:267568492;shop_id:163960", 
+            "description": [
+                "Thiết Bị Nhận Bluetooth Cho Loa Và Amply DMZ Music - Dễ Dàng Kết Nối Hệ Thống Âm Thanh Nhà Bạn Với Các Thiết Bị Di Động"
+            ], 
+            "discount": "-47%", 
+            "icons": [
+                {
+                    "alias": "birthBadge", 
+                    "domClass": "birthBadge", 
+                    "font-size": 0, 
+                    "group": "1", 
+                    "order": -1, 
+                    "showType": "0", 
+                    "text": "", 
+                    "type": "img"
+                }, 
+                {
+                    "alias": "FsAlias", 
+                    "domClass": "freeShipping", 
+                    "font-size": 0, 
+                    "group": "2", 
+                    "order": 0, 
+                    "showType": "0", 
+                    "text": "FreeShipping", 
+                    "type": "img"
+                }
+            ], 
+            "image": "https://vn-live-01.slatic.net/original/1cc75740b2ea354556c855e721b5f723.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "213623496", 
+            "location": "Việt Nam", 
+            "name": "USB BLUETOOTH - Kết nối Loa Thường thành Loa không dây (màu ngẫu nhiên)", 
+            "nid": "213623496", 
+            "originalPrice": "32000.00", 
+            "originalPriceShow": "32.000 ₫", 
+            "price": "16900.00", 
+            "priceShow": "16.900 ₫", 
+            "productUrl": "//www.lazada.vn/products/usb-bluetooth-ket-noi-loa-thuong-thanh-loa-khong-day-mau-ngau-nhien-i213623496-s267568492.html?search=1", 
+            "ratingScore": "5", 
+            "restrictedAge": 0, 
+            "review": "3", 
+            "sellerId": "100172403", 
+            "sellerName": "Huế Computer", 
+            "sku": "213623496_VNAMZ", 
+            "skuId": "267568492", 
+            "skus": [
+                {
+                    "id": "213623496_VNAMZ-267568492"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-live-01.slatic.net/original/1cc75740b2ea354556c855e721b5f723.jpg", 
+                    "productUrl": "//www.lazada.vn/products/usb-bluetooth-ket-noi-loa-thuong-thanh-loa-khong-day-mau-ngau-nhien-i213623496-s267568492.html?search=1", 
+                    "sku": "213623496_VNAMZ", 
+                    "skuId": "267568492"
+                }
+            ], 
+            "voucherId": ""
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "FO905ELAA3GQMZVNAMZ-6097938", 
+                    "skuId": "102371275"
+                }
+            ], 
+            "brandId": "27662", 
+            "brandName": "Fourtech", 
+            "categories": [
+                4403, 
+                4564, 
+                11421, 
+                11433, 
+                11434
+            ], 
+            "cheapest_sku": "FO905ELAA3GQMZVNAMZ-6097938", 
+            "clickTrace": "query:bluetooth;nid:5819867;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:FO905ELAA3GQMZVNAMZ;price:20000.00;client:desktop;supplier_id:100006644;asc_category_id:11434;item_id:101995041;sku_id:102371275;shop_id:2938", 
+            "description": [
+                "Dễ dàng kết nốiThiết kế nhỏ gọnKhoảng cách kết nối 5m đến 10m"
+            ], 
+            "discount": "-49%", 
+            "icons": [
+                {
+                    "alias": "birthBadge", 
+                    "domClass": "birthBadge", 
+                    "font-size": 0, 
+                    "group": "1", 
+                    "order": -1, 
+                    "showType": "0", 
+                    "text": "", 
+                    "type": "img"
+                }
+            ], 
+            "image": "https://vn-live-01.slatic.net/original/0fa4686b896c939e2f5d2e6d97371e6b.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "101995041", 
+            "location": "Hồ Chí Minh", 
+            "name": "USB Bluetooth Cho Loa Và Âm Ly", 
+            "nid": "5819867", 
+            "originalPrice": "39000.00", 
+            "originalPriceShow": "39.000 ₫", 
+            "price": "20000.00", 
+            "priceShow": "20.000 ₫", 
+            "productUrl": "//www.lazada.vn/products/usb-bluetooth-cho-loa-va-am-ly-i101995041-s102371275.html?search=1", 
+            "ratingScore": "3.93617", 
+            "restrictedAge": 0, 
+            "review": "47", 
+            "sellerId": "100006644", 
+            "sellerName": "THE FASHION FOR MEN & WOMEN", 
+            "sku": "FO905ELAA3GQMZVNAMZ", 
+            "skuId": "102371275", 
+            "skus": [
+                {
+                    "id": "FO905ELAA3GQMZVNAMZ-6097938"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-live-01.slatic.net/original/0fa4686b896c939e2f5d2e6d97371e6b.jpg", 
+                    "productUrl": "//www.lazada.vn/products/usb-bluetooth-cho-loa-va-am-ly-i101995041-s102371275.html?search=1", 
+                    "sku": "FO905ELAA3GQMZVNAMZ", 
+                    "skuId": "102371275"
+                }
+            ], 
+            "voucherId": "203201813806644"
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "PU701ELAA9CJ9IVNAMZ-18554669", 
+                    "skuId": "137788744"
+                }
+            ], 
+            "brandId": "112363", 
+            "brandName": "PUTOCA", 
+            "categories": [
+                4403, 
+                4564, 
+                5009, 
+                11412
+            ], 
+            "cheapest_sku": "PU701ELAA9CJ9IVNAMZ-18554669", 
+            "clickTrace": "query:bluetooth;nid:15701382;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:PU701ELAA9CJ9IVNAMZ;price:29000.00;client:desktop;supplier_id:4277;asc_category_id:11412;item_id:135714594;sku_id:137788744;shop_id:15190", 
+            "description": [
+                "Công nghệ Bluetooth 3.0", 
+                "Công nghệ chống ồn hiệu quả", 
+                "Đảm bảo an toàn tuyệt đối về mức sóng từ", 
+                "Kết nối với 2 thiết bị cùng lúc.", 
+                "Hỗ trợ nghe nhạc với Âm thanh chất lượng", 
+                "Đàm thoại liên tục từ 3 giờ đến 5 giờ tuỳ theo thiết bị smartphone", 
+                "Sản phẩm của PUTOCA Việt Nam"
+            ], 
+            "discount": "-42%", 
+            "icons": [], 
+            "image": "https://vn-test-11.slatic.net/p/2/tai-nghe-bluetooth-nhet-tai-putoca-tich-hop-day-deo-j-s40-2137-28310751-eddd542ef9a1b4502ab651dac541f5cc-catalog_233.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "135714594", 
+            "location": "Hồ Chí Minh", 
+            "name": "Tai nghe bluetooth nhét tai PUTOCA tích hợp dây đeo J-S4.0  ", 
+            "nid": "15701382", 
+            "originalPrice": "50000.00", 
+            "originalPriceShow": "50.000 ₫", 
+            "price": "29000.00", 
+            "priceShow": "29.000 ₫", 
+            "productUrl": "//www.lazada.vn/products/tai-nghe-bluetooth-nhet-tai-putoca-tich-hop-day-deo-j-s40-i135714594-s137788744.html?search=1", 
+            "ratingScore": "4.0137", 
+            "restrictedAge": 0, 
+            "review": "438", 
+            "sellerId": "4277", 
+            "sellerName": "Phúc Trường Vinh", 
+            "sku": "PU701ELAA9CJ9IVNAMZ", 
+            "skuId": "137788744", 
+            "skus": [
+                {
+                    "id": "PU701ELAA9CJ9IVNAMZ-18554669"
+                }, 
+                {
+                    "id": "PU701ELAA9CJA6VNAMZ-18554704"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-test-11.slatic.net/p/2/tai-nghe-bluetooth-nhet-tai-putoca-tich-hop-day-deo-j-s40-2137-28310751-eddd542ef9a1b4502ab651dac541f5cc-gallery.jpg", 
+                    "productUrl": "//www.lazada.vn/products/tai-nghe-bluetooth-nhet-tai-putoca-tich-hop-day-deo-j-s40-i135714594-s137788744.html?search=1", 
+                    "sku": "PU701ELAA9CJ9IVNAMZ", 
+                    "skuId": "137788744"
+                }, 
+                {
+                    "image": "https://vn-test-11.slatic.net/p/2/tai-nghe-bluetooth-nhet-tai-putoca-tich-hop-day-deo-j-s40-2138-60410751-d331d0ef3d35e9b664df4a60754f70f9-gallery.jpg", 
+                    "productUrl": "//www.lazada.vn/products/tai-nghe-bluetooth-nhet-tai-putoca-tich-hop-day-deo-j-s40-i135714594-s137788743.html?search=1", 
+                    "sku": "PU701ELAA9CJA6VNAMZ", 
+                    "skuId": "137788743"
+                }
+            ], 
+            "voucherId": "203225404104277"
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "OE680ELAA9ZXC8VNAMZ-20034152", 
+                    "skuId": "139586069"
+                }
+            ], 
+            "brandId": "18094", 
+            "brandName": "OEM", 
+            "categories": [
+                4403, 
+                4564, 
+                5009, 
+                11412
+            ], 
+            "cheapest_sku": "OE680ELAA9ZXC8VNAMZ-20034152", 
+            "clickTrace": "query:bluetooth;nid:16792712;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:OE680ELAA9ZXC8VNAMZ;price:28000.00;client:desktop;supplier_id:929;asc_category_id:11412;item_id:137031998;sku_id:139586069;shop_id:1369", 
+            "description": [
+                "Công nghệ Bluetooth V4.1", 
+                "Công nghệ chống ồn hiệu quả", 
+                "Đảm bảo an toàn tuyệt đối về mức sóng từ", 
+                "Âm thanh chất lượng", 
+                "Hỗ trợ đàm thoại liên tục lên đến 3 giờ", 
+                "Thời gian chờ lên đến 100 giờ"
+            ], 
+            "discount": "-44%", 
+            "icons": [
+                {
+                    "alias": "birthBadge", 
+                    "domClass": "birthBadge", 
+                    "font-size": 0, 
+                    "group": "1", 
+                    "order": -1, 
+                    "showType": "0", 
+                    "text": "", 
+                    "type": "img"
+                }, 
+                {
+                    "alias": "FsAlias", 
+                    "domClass": "freeShipping", 
+                    "font-size": 0, 
+                    "group": "2", 
+                    "order": 0, 
+                    "showType": "0", 
+                    "text": "FreeShipping", 
+                    "type": "img"
+                }
+            ], 
+            "image": "https://vn-test-11.slatic.net/p/2/tai-nghe-bluetooth-nhet-tai-khong-day-m-165-cao-cap-6630-21729761-8b79ce51a23488fa8b21b178a76386c7-catalog_233.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "137031998", 
+            "location": "Hồ Chí Minh", 
+            "name": "Tai nghe bluetooth nhét tai không dây M-165 cao cấp", 
+            "nid": "16792712", 
+            "originalPrice": "50000.00", 
+            "originalPriceShow": "50.000 ₫", 
+            "price": "28000.00", 
+            "priceShow": "28.000 ₫", 
+            "productUrl": "//www.lazada.vn/products/tai-nghe-bluetooth-nhet-tai-khong-day-m-165-cao-cap-i137031998-s139586069.html?search=1", 
+            "ratingScore": "4.34662", 
+            "restrictedAge": 0, 
+            "review": "828", 
+            "sellerId": "929", 
+            "sellerName": "Trường Vinh 139 (Tp.HCM)", 
+            "sku": "OE680ELAA9ZXC8VNAMZ", 
+            "skuId": "139586069", 
+            "skus": [
+                {
+                    "id": "OE680ELAA9ZXC8VNAMZ-20034152"
+                }, 
+                {
+                    "id": "OE680ELAA9ZXCBVNAMZ-20034159"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-test-11.slatic.net/p/2/tai-nghe-bluetooth-nhet-tai-khong-day-m-165-cao-cap-6630-21729761-8b79ce51a23488fa8b21b178a76386c7-gallery.jpg", 
+                    "productUrl": "//www.lazada.vn/products/tai-nghe-bluetooth-nhet-tai-khong-day-m-165-cao-cap-i137031998-s139586069.html?search=1", 
+                    "sku": "OE680ELAA9ZXC8VNAMZ", 
+                    "skuId": "139586069"
+                }, 
+                {
+                    "image": "https://vn-test-11.slatic.net/p/2/tai-nghe-bluetooth-nhet-tai-khong-day-m-165-cao-cap-6630-51729761-8b79ce51a23488fa8b21b178a76386c7-gallery.jpg", 
+                    "productUrl": "//www.lazada.vn/products/tai-nghe-bluetooth-nhet-tai-khong-day-m-165-cao-cap-i137031998-s139586070.html?search=1", 
+                    "sku": "OE680ELAA9ZXCBVNAMZ", 
+                    "skuId": "139586070"
+                }
+            ], 
+            "voucherId": "203229203400929"
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "OE680ELAA9ZXBBVNAMZ-20034095", 
+                    "skuId": "139585444"
+                }
+            ], 
+            "brandId": "18094", 
+            "brandName": "OEM", 
+            "categories": [
+                4403, 
+                4564, 
+                5009, 
+                11412
+            ], 
+            "cheapest_sku": "OE680ELAA9ZXBBVNAMZ-20034095", 
+            "clickTrace": "query:bluetooth;nid:16792679;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:OE680ELAA9ZXBBVNAMZ;price:28000.00;client:desktop;supplier_id:929;asc_category_id:11412;item_id:137034757;sku_id:139585444;shop_id:1369", 
+            "description": [
+                "Công nghệ Bluetooth V4.1", 
+                "Công nghệ chống ồn hiệu quả", 
+                "Đảm bảo an toàn tuyệt đối về mức sóng từ", 
+                "Âm thanh chất lượng", 
+                "Hỗ trợ đàm thoại liên tục lên đến 3 giờ", 
+                "Thời gian chờ lên đến 100 giờ"
+            ], 
+            "discount": "-44%", 
+            "icons": [
+                {
+                    "alias": "birthBadge", 
+                    "domClass": "birthBadge", 
+                    "font-size": 0, 
+                    "group": "1", 
+                    "order": -1, 
+                    "showType": "0", 
+                    "text": "", 
+                    "type": "img"
+                }, 
+                {
+                    "alias": "FsAlias", 
+                    "domClass": "freeShipping", 
+                    "font-size": 0, 
+                    "group": "2", 
+                    "order": 0, 
+                    "showType": "0", 
+                    "text": "FreeShipping", 
+                    "type": "img"
+                }
+            ], 
+            "image": "https://vn-test-11.slatic.net/p/2/tai-nghe-bluetooth-nhet-tai-mini-530-6628-97629761-24d03a056a28663dd1b9493264ee3d54-catalog_233.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "137034757", 
+            "location": "Hồ Chí Minh", 
+            "name": "Tai nghe BLUETOOTH nhét tai mini 530", 
+            "nid": "16792679", 
+            "originalPrice": "50000.00", 
+            "originalPriceShow": "50.000 ₫", 
+            "price": "28000.00", 
+            "priceShow": "28.000 ₫", 
+            "productUrl": "//www.lazada.vn/products/tai-nghe-bluetooth-nhet-tai-mini-530-i137034757-s139585444.html?search=1", 
+            "ratingScore": "4.13855", 
+            "restrictedAge": 0, 
+            "review": "332", 
+            "sellerId": "929", 
+            "sellerName": "Trường Vinh 139 (Tp.HCM)", 
+            "sku": "OE680ELAA9ZXBBVNAMZ", 
+            "skuId": "139585444", 
+            "skus": [
+                {
+                    "id": "OE680ELAA9ZXBBVNAMZ-20034095"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-test-11.slatic.net/p/2/tai-nghe-bluetooth-nhet-tai-mini-530-6628-97629761-24d03a056a28663dd1b9493264ee3d54-gallery.jpg", 
+                    "productUrl": "//www.lazada.vn/products/tai-nghe-bluetooth-nhet-tai-mini-530-i137034757-s139585444.html?search=1", 
+                    "sku": "OE680ELAA9ZXBBVNAMZ", 
+                    "skuId": "139585444"
+                }
+            ], 
+            "voucherId": "203229203400929"
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "BL843ELAA5APD6VNAMZ-9740652", 
+                    "skuId": "106085031"
+                }
+            ], 
+            "brandId": "3760", 
+            "brandName": "BLUETOOTH", 
+            "categories": [
+                4403, 
+                4564, 
+                5009, 
+                11412
+            ], 
+            "cheapest_sku": "BL843ELAA5APD6VNAMZ-9740652", 
+            "clickTrace": "query:bluetooth;nid:8897514;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:BL843ELAA5APD6VNAMZ;price:27900.00;client:desktop;supplier_id:6595;asc_category_id:11412;item_id:105003235;sku_id:106085031;shop_id:340", 
+            "description": [
+                "Công nghệ Bluetooth V4.1", 
+                "Công nghệ chống ồn hiệu quả", 
+                "Đảm bảo an toàn tuyệt đối về mức sóng từ", 
+                "Âm thanh chất lượng", 
+                "Hỗ trợ đàm thoại liên tục lên đến 3 giờ", 
+                "Thời gian chờ lên đến 100 giờ"
+            ], 
+            "discount": "-39%", 
+            "icons": [
+                {
+                    "alias": "birthBadge", 
+                    "domClass": "birthBadge", 
+                    "font-size": 0, 
+                    "group": "1", 
+                    "order": -1, 
+                    "showType": "0", 
+                    "text": "", 
+                    "type": "img"
+                }
+            ], 
+            "image": "https://vn-test-11.slatic.net/p/2/tai-nghe-bluetooth-relaxed-pro-headset-bluetooth-v41-co-nghe-nhacden-8679-4157988-e3aa9d692d87c55f6fe0bbc9883335e7-catalog_233.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "105003235", 
+            "location": "Hà Nội", 
+            "name": "Tai nghe Bluetooth Relaxed Pro Headset Bluetooth V4.1 có nghe nhạc (Đen)", 
+            "nid": "8897514", 
+            "originalPrice": "46000.00", 
+            "originalPriceShow": "46.000 ₫", 
+            "price": "27900.00", 
+            "priceShow": "27.900 ₫", 
+            "productUrl": "//www.lazada.vn/products/tai-nghe-bluetooth-relaxed-pro-headset-bluetooth-v41-co-nghe-nhac-den-i105003235-s106085031.html?search=1", 
+            "ratingScore": "4.16102", 
+            "restrictedAge": 0, 
+            "review": "354", 
+            "sellerId": "6595", 
+            "sellerName": "Bảo An Store", 
+            "sku": "BL843ELAA5APD6VNAMZ", 
+            "skuId": "106085031", 
+            "skus": [
+                {
+                    "id": "BL843ELAA5APD6VNAMZ-9740652"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-test-11.slatic.net/p/2/tai-nghe-bluetooth-relaxed-pro-headset-bluetooth-v41-co-nghe-nhacden-8679-4157988-e3aa9d692d87c55f6fe0bbc9883335e7-gallery.jpg", 
+                    "productUrl": "//www.lazada.vn/products/tai-nghe-bluetooth-relaxed-pro-headset-bluetooth-v41-co-nghe-nhac-den-i105003235-s106085031.html?search=1", 
+                    "sku": "BL843ELAA5APD6VNAMZ", 
+                    "skuId": "106085031"
+                }
+            ], 
+            "voucherId": "203125008906595"
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "264944178_VNAMZ-380786812", 
+                    "skuId": "380786812"
+                }
+            ], 
+            "brandId": "18094", 
+            "brandName": "OEM", 
+            "categories": [
+                4403, 
+                4564, 
+                5009, 
+                11412
+            ], 
+            "cheapest_sku": "264944178_VNAMZ-380786812", 
+            "clickTrace": "query:bluetooth;nid:264944178;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:264944178_VNAMZ;price:35900.00;client:desktop;supplier_id:100233951;asc_category_id:11412;item_id:264944178;sku_id:380786812;shop_id:225631", 
+            "description": [
+                "Kiểu dáng mạnh mẽ, thời trang cuốn hút giúp bạn luôn năng động trong mọi hoạt động", 
+                "Kết nối Bluetooth 4.1+EDR giúp khả năng kết nối nhanh, mạnh và xa với bán kính 10m , không bị rè hay tín hiệu kém", 
+                "Kiểu tai S8 nên đeo rất thoải mái, bám tai tốt, không bị khó chịu khi nghe lâu", 
+                "Nam châm từ tính 2 bên hút nhau tạo vòng đeo giúp giảm hoàn toàn trọng lượng 2 bên tai, thoải mái hoạt động và khi không dùng đến.", 
+                "Công nghệ Bluetooth : V4.0", 
+                "Khoảng cách sử dụng : 10m", 
+                "Thời gian đàm thoại : 6h", 
+                "Thời gian chờ : 120h", 
+                "Thời gian sạc: 2h", 
+                "Trọng lượng : 7.4g"
+            ], 
+            "discount": "-45%", 
+            "icons": [
+                {
+                    "alias": "birthBadge", 
+                    "domClass": "birthBadge", 
+                    "font-size": 0, 
+                    "group": "1", 
+                    "order": -1, 
+                    "showType": "0", 
+                    "text": "", 
+                    "type": "img"
+                }, 
+                {
+                    "alias": "FsAlias", 
+                    "domClass": "freeShipping", 
+                    "font-size": 0, 
+                    "group": "2", 
+                    "order": 0, 
+                    "showType": "0", 
+                    "text": "FreeShipping", 
+                    "type": "img"
+                }
+            ], 
+            "image": "https://vn-test-11.slatic.net/p/184b96dcf31e78298d8a64e5ed502663.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "264944178", 
+            "location": "Hà Nội", 
+            "name": "Tai nghe Bluetooth Sport S8 – Tai nghe thể thao (Tặng dây sạc) tai nghe không dây. tai nghe bluetooth giá rẻ", 
+            "nid": "264944178", 
+            "originalPrice": "65000.00", 
+            "originalPriceShow": "65.000 ₫", 
+            "price": "35900.00", 
+            "priceShow": "35.900 ₫", 
+            "productUrl": "//www.lazada.vn/products/tai-nghe-bluetooth-sport-s8-tai-nghe-the-thao-tang-day-sac-tai-nghe-khong-day-tai-nghe-bluetooth-gia-re-i264944178-s380786812.html?search=1", 
+            "ratingScore": "4.71429", 
+            "restrictedAge": 0, 
+            "review": "21", 
+            "sellerId": "100233951", 
+            "sellerName": "ECO MART HÀ NỘI", 
+            "sku": "264944178_VNAMZ", 
+            "skuId": "380786812", 
+            "skus": [
+                {
+                    "id": "264944178_VNAMZ-380786813"
+                }, 
+                {
+                    "id": "264944178_VNAMZ-380786812"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-test-11.slatic.net/p/184b96dcf31e78298d8a64e5ed502663.jpg", 
+                    "productUrl": "//www.lazada.vn/products/tai-nghe-bluetooth-sport-s8-tai-nghe-the-thao-tang-day-sac-tai-nghe-khong-day-tai-nghe-bluetooth-gia-re-i264944178-s380786812.html?search=1", 
+                    "sku": "264944178_VNAMZ", 
+                    "skuId": "380786812"
+                }, 
+                {
+                    "image": "https://vn-test-11.slatic.net/p/184b96dcf31e78298d8a64e5ed502663.jpg", 
+                    "productUrl": "//www.lazada.vn/products/tai-nghe-bluetooth-sport-s8-tai-nghe-the-thao-tang-day-sac-tai-nghe-khong-day-tai-nghe-bluetooth-gia-re-i264944178-s380786813.html?search=1", 
+                    "sku": "264944178_VNAMZ", 
+                    "skuId": "380786813"
+                }
+            ], 
+            "voucherId": ""
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "267708143_VNAMZ-391208546", 
+                    "skuId": "391208546"
+                }
+            ], 
+            "brandId": "65074", 
+            "brandName": "No Brand", 
+            "categories": [
+                4403, 
+                4564, 
+                5009, 
+                11412
+            ], 
+            "cheapest_sku": "267708143_VNAMZ-391208546", 
+            "clickTrace": "query:bluetooth;nid:267708143;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:267708143_VNAMZ;price:86000.00;client:desktop;supplier_id:1000073419;asc_category_id:11412;item_id:267708143;sku_id:391208546;shop_id:331351", 
+            "description": [
+                "Bộ sản phẩm đầy đủ bao gồm 2 Tai Nghe + 01 Cốc Sạc + 01 Dây Sạc.", 
+                "Thiết kế độc đáo, sang trọng, tinh tế không sánh với hàng rẻ tiền.", 
+                "Âm thanh cực chất, đảm bảo làm hài lòng đối với cả những khách hàng khó tính nhất.", 
+                "Chức năng giảm tiếng ồn từ môi trường khi sử dụng tai nghe (Đàm thoại)", 
+                "Sản phẩm chỉ có màu trắng tinh khôi."
+            ], 
+            "discount": "-46%", 
+            "icons": [
+                {
+                    "alias": "birthBadge", 
+                    "domClass": "birthBadge", 
+                    "font-size": 0, 
+                    "group": "1", 
+                    "order": -1, 
+                    "showType": "0", 
+                    "text": "", 
+                    "type": "img"
+                }
+            ], 
+            "image": "https://vn-test-11.slatic.net/p/792dcff810b88657e8b1d3368948562e.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "267708143", 
+            "location": "Nam Định", 
+            "name": "Tai Nghe Bluetooth i7S TWS, Tai nghe Bluetooth không dây i7S TWS, Tai nghe không dây, tai nghe giá rẻ, tai nghe bluetooth không dây dành cho tất cả các smart phone", 
+            "nid": "267708143", 
+            "originalPrice": "160000.00", 
+            "originalPriceShow": "160.000 ₫", 
+            "price": "86000.00", 
+            "priceShow": "86.000 ₫", 
+            "productUrl": "//www.lazada.vn/products/tai-nghe-bluetooth-i7s-tws-tai-nghe-bluetooth-khong-day-i7s-tws-tai-nghe-khong-day-tai-nghe-gia-re-tai-nghe-bluetooth-khong-day-danh-cho-tat-ca-cac-smart-phone-i267708143-s391208546.html?search=1", 
+            "ratingScore": "5", 
+            "restrictedAge": 0, 
+            "review": "2", 
+            "sellerId": "1000073419", 
+            "sellerName": "LanAnh9x", 
+            "sku": "267708143_VNAMZ", 
+            "skuId": "391208546", 
+            "skus": [
+                {
+                    "id": "267708143_VNAMZ-391208546"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-test-11.slatic.net/p/792dcff810b88657e8b1d3368948562e.jpg", 
+                    "productUrl": "//www.lazada.vn/products/tai-nghe-bluetooth-i7s-tws-tai-nghe-bluetooth-khong-day-i7s-tws-tai-nghe-khong-day-tai-nghe-gia-re-tai-nghe-bluetooth-khong-day-danh-cho-tat-ca-cac-smart-phone-i267708143-s391208546.html?search=1", 
+                    "sku": "267708143_VNAMZ", 
+                    "skuId": "391208546"
+                }
+            ], 
+            "voucherId": ""
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "OE680ELAA9ZWVGVNAMZ-20032833", 
+                    "skuId": "139582716"
+                }
+            ], 
+            "brandId": "18094", 
+            "brandName": "OEM", 
+            "categories": [
+                4403, 
+                4564, 
+                5009, 
+                11412
+            ], 
+            "cheapest_sku": "OE680ELAA9ZWVGVNAMZ-20032833", 
+            "clickTrace": "query:bluetooth;nid:16792108;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:OE680ELAA9ZWVGVNAMZ;price:28000.00;client:desktop;supplier_id:4277;asc_category_id:11412;item_id:137037097;sku_id:139582716;shop_id:15190", 
+            "description": [
+                "Công nghệ Bluetooth V4.1", 
+                "Công nghệ chống ồn hiệu quả", 
+                "Đảm bảo an toàn tuyệt đối về mức sóng từ", 
+                "Âm thanh chất lượng", 
+                "Hỗ trợ đàm thoại liên tục lên đến 3 giờ", 
+                "Thời gian chờ lên đến 100 giờ"
+            ], 
+            "discount": "-44%", 
+            "icons": [
+                {
+                    "alias": "birthBadge", 
+                    "domClass": "birthBadge", 
+                    "font-size": 0, 
+                    "group": "1", 
+                    "order": -1, 
+                    "showType": "0", 
+                    "text": "", 
+                    "type": "img"
+                }
+            ], 
+            "image": "https://vn-test-11.slatic.net/p/2/tai-nghe-bluetooth-nhet-tai-music-cao-cap-4723-80129761-8b79ce51a23488fa8b21b178a76386c7-catalog_233.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "137037097", 
+            "location": "Hồ Chí Minh", 
+            "name": "Tai nghe bluetooth nhét tai Music cao cấp", 
+            "nid": "16792108", 
+            "originalPrice": "50000.00", 
+            "originalPriceShow": "50.000 ₫", 
+            "price": "28000.00", 
+            "priceShow": "28.000 ₫", 
+            "productUrl": "//www.lazada.vn/products/tai-nghe-bluetooth-nhet-tai-music-cao-cap-i137037097-s139582716.html?search=1", 
+            "ratingScore": "4.15339", 
+            "restrictedAge": 0, 
+            "review": "678", 
+            "sellerId": "4277", 
+            "sellerName": "Phúc Trường Vinh", 
+            "sku": "OE680ELAA9ZWVGVNAMZ", 
+            "skuId": "139582716", 
+            "skus": [
+                {
+                    "id": "OE680ELAA9ZWVGVNAMZ-20032833"
+                }, 
+                {
+                    "id": "OE680ELAA9ZWW1VNAMZ-20032888"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-test-11.slatic.net/p/2/tai-nghe-bluetooth-nhet-tai-music-cao-cap-4723-80129761-8b79ce51a23488fa8b21b178a76386c7-gallery.jpg", 
+                    "productUrl": "//www.lazada.vn/products/tai-nghe-bluetooth-nhet-tai-music-cao-cap-i137037097-s139582716.html?search=1", 
+                    "sku": "OE680ELAA9ZWVGVNAMZ", 
+                    "skuId": "139582716"
+                }, 
+                {
+                    "image": "https://vn-test-11.slatic.net/p/2/tai-nghe-bluetooth-nhet-tai-music-cao-cap-4727-92129761-8b79ce51a23488fa8b21b178a76386c7-gallery.jpg", 
+                    "productUrl": "//www.lazada.vn/products/tai-nghe-bluetooth-nhet-tai-music-cao-cap-i137037097-s139582715.html?search=1", 
+                    "sku": "OE680ELAA9ZWW1VNAMZ", 
+                    "skuId": "139582715"
+                }
+            ], 
+            "voucherId": "203225404104277"
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "246085613_VNAMZ-315942127", 
+                    "skuId": "315942127"
+                }
+            ], 
+            "brandId": "18094", 
+            "brandName": "OEM", 
+            "categories": [
+                4403, 
+                4564, 
+                5009, 
+                11412
+            ], 
+            "cheapest_sku": "246085613_VNAMZ-315942127", 
+            "clickTrace": "query:bluetooth;nid:246085613;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:246085613_VNAMZ;price:36900.00;client:desktop;supplier_id:100248744;asc_category_id:11412;item_id:246085613;sku_id:315942127;shop_id:258276", 
+            "description": [
+                "Kiểu dáng mạnh mẽ, thời trang cuốn hút giúp bạn luôn năng động trong mọi hoạt động", 
+                "Kết nối Bluetooth 4.1+EDR giúp khả năng kết nối nhanh, mạnh và xa với bán kính 10m , không bị rè hay tín hiệu kém", 
+                "Kiểu tai S8 nên đeo rất thoải mái, bám tai tốt, không bị khó chịu khi nghe lâu", 
+                "Nam châm từ tính 2 bên hút nhau tạo vòng đeo giúp giảm hoàn toàn trọng lượng 2 bên tai, thoải mái hoạt động và khi không dùng đến.", 
+                "Công nghệ Bluetooth : V4.0", 
+                "Khoảng cách sử dụng : 10m", 
+                "Thời gian đàm thoại : 6h", 
+                "Thời gian chờ : 120h", 
+                "Thời gian sạc: 2h", 
+                "Trọng lượng : 7.4g"
+            ], 
+            "discount": "-47%", 
+            "icons": [
+                {
+                    "alias": "birthBadge", 
+                    "domClass": "birthBadge", 
+                    "font-size": 0, 
+                    "group": "1", 
+                    "order": -1, 
+                    "showType": "0", 
+                    "text": "", 
+                    "type": "img"
+                }, 
+                {
+                    "alias": "FsAlias", 
+                    "domClass": "freeShipping", 
+                    "font-size": 0, 
+                    "group": "2", 
+                    "order": 0, 
+                    "showType": "0", 
+                    "text": "FreeShipping", 
+                    "type": "img"
+                }
+            ], 
+            "image": "https://vn-live-01.slatic.net/original/738dca9d4866d950e4672f3fd8579d8e.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "246085613", 
+            "location": "Hà Nội", 
+            "name": "[Sale 50%] Tai nghe thể thao Bluetooth Sports Headset S8 + Tặng dây sạc", 
+            "nid": "246085613", 
+            "originalPrice": "70000.00", 
+            "originalPriceShow": "70.000 ₫", 
+            "price": "36900.00", 
+            "priceShow": "36.900 ₫", 
+            "productUrl": "//www.lazada.vn/products/sale-50-tai-nghe-the-thao-bluetooth-sports-headset-s8-tang-day-sac-i246085613-s315942127.html?search=1", 
+            "ratingScore": "4.6", 
+            "restrictedAge": 0, 
+            "review": "70", 
+            "sellerId": "100248744", 
+            "sellerName": "DIGITAL MART", 
+            "sku": "246085613_VNAMZ", 
+            "skuId": "315942127", 
+            "skus": [
+                {
+                    "id": "246085613_VNAMZ-315942127"
+                }, 
+                {
+                    "id": "246085613_VNAMZ-315942126"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-live-01.slatic.net/original/738dca9d4866d950e4672f3fd8579d8e.jpg", 
+                    "productUrl": "//www.lazada.vn/products/sale-50-tai-nghe-the-thao-bluetooth-sports-headset-s8-tang-day-sac-i246085613-s315942127.html?search=1", 
+                    "sku": "246085613_VNAMZ", 
+                    "skuId": "315942127"
+                }, 
+                {
+                    "image": "https://vn-live-01.slatic.net/original/d1fa61fb5b20481edd8ddfe1d8b9a0d9.jpg", 
+                    "productUrl": "//www.lazada.vn/products/sale-50-tai-nghe-the-thao-bluetooth-sports-headset-s8-tang-day-sac-i246085613-s315942126.html?search=1", 
+                    "sku": "246085613_VNAMZ", 
+                    "skuId": "315942126"
+                }
+            ], 
+            "voucherId": ""
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "258585166_VNAMZ-358734452", 
+                    "skuId": "358734452"
+                }
+            ], 
+            "brandId": "65074", 
+            "brandName": "No Brand", 
+            "categories": [
+                4403, 
+                4564, 
+                5009, 
+                11412
+            ], 
+            "cheapest_sku": "258585166_VNAMZ-358734452", 
+            "clickTrace": "query:bluetooth;nid:258585166;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:258585166_VNAMZ;price:99000.00;client:desktop;supplier_id:100118377;asc_category_id:11412;item_id:258585166;sku_id:358734452;shop_id:119716", 
+            "description": [
+                "Kiểu dáng Airpod sang trọng, đẹp", 
+                "Kết nối 1 tai hoặc 2 tai nghe cùng lúc", 
+                "Có dock sạc riêng cho sản phẩm", 
+                "Nhỏ gọn, thuận tiện, dễ dàng cất giữ", 
+                "Thời gian đợi lên tới 6 giờ", 
+                "Sạc nhanh từ 1-2 giờ cho tai nghe"
+            ], 
+            "discount": "-34%", 
+            "icons": [
+                {
+                    "alias": "birthBadge", 
+                    "domClass": "birthBadge", 
+                    "font-size": 0, 
+                    "group": "1", 
+                    "order": -1, 
+                    "showType": "0", 
+                    "text": "", 
+                    "type": "img"
+                }, 
+                {
+                    "alias": "FsAlias", 
+                    "domClass": "freeShipping", 
+                    "font-size": 0, 
+                    "group": "2", 
+                    "order": 0, 
+                    "showType": "0", 
+                    "text": "FreeShipping", 
+                    "type": "img"
+                }
+            ], 
+            "image": "https://vn-test-11.slatic.net/p/8d99a679ae1a4ff3bc567851d471d061.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "258585166", 
+            "location": "Việt Nam", 
+            "name": "Tai nghe bluetooth i7S hỗ trợ tất ca các dòng điện thoại phiên bản 2019", 
+            "nid": "258585166", 
+            "originalPrice": "150000.00", 
+            "originalPriceShow": "150.000 ₫", 
+            "price": "99000.00", 
+            "priceShow": "99.000 ₫", 
+            "productUrl": "//www.lazada.vn/products/tai-nghe-bluetooth-i7s-ho-tro-tat-ca-cac-dong-dien-thoai-phien-ban-2019-i258585166-s358734452.html?search=1", 
+            "ratingScore": "5", 
+            "restrictedAge": 0, 
+            "review": "5", 
+            "sellerId": "100118377", 
+            "sellerName": "HOA LỢI", 
+            "sku": "258585166_VNAMZ", 
+            "skuId": "358734452", 
+            "skus": [
+                {
+                    "id": "258585166_VNAMZ-358734452"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-test-11.slatic.net/p/8d99a679ae1a4ff3bc567851d471d061.jpg", 
+                    "productUrl": "//www.lazada.vn/products/tai-nghe-bluetooth-i7s-ho-tro-tat-ca-cac-dong-dien-thoai-phien-ban-2019-i258585166-s358734452.html?search=1", 
+                    "sku": "258585166_VNAMZ", 
+                    "skuId": "358734452"
+                }
+            ], 
+            "voucherId": "203126603718377\u001d203189606018377"
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "258588025_VNAMZ-358720882", 
+                    "skuId": "358720882"
+                }
+            ], 
+            "brandId": "65074", 
+            "brandName": "No Brand", 
+            "categories": [
+                4403, 
+                4564, 
+                5009, 
+                11412
+            ], 
+            "cheapest_sku": "258588025_VNAMZ-358720882", 
+            "clickTrace": "query:bluetooth;nid:258588025;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:258588025_VNAMZ;price:115000.00;client:desktop;supplier_id:100011588;asc_category_id:11412;item_id:258588025;sku_id:358720882;shop_id:1165", 
+            "description": [
+                "Hướng dẫn cài đặt ghép đôi 2 tai nghe để có thể nghe 2 tai 1 lúc", 
+                "Quan trong : trước tiên bạn tắt Bluetooth thiết bị điện thoại trước khi bật tai nghe", 
+                "Bước 1 bạn mở cả 2 tai phone tuần tự ( sáng đèn là ok )", 
+                "Bạn sẽ thấy cả 2 tai phone đều nhấp nháy đèn", 
+                "Bước 2 bạn click đúp vào 1 trong 2 tai bất kỳ ( bạn sẽ thấy ngay 1 trong 2 tai sẽ tự động tắt đèn ) vậy là ok", 
+                "Như vậy la 2 tai đã ghép với nhau thành 1 tai chung để nghe", 
+                "Bước 3 bạn vào thiết bị điện thoại của mình bật Bluetooth lên", 
+                "Và ghép đôi với thiết bị i7s là ok", 
+                "Nếu bạn vẫn chưa hiểu", 
+                "Vui lòng vào YouTube.com", 
+                "Gõ vào : hướng dẫn kết nối tai nghe i7s là nhiều clip hiện raKhoảng cách truyền tải tối đa 10 métThời gian nói chuyện liên tục 2 - 3 giờThời gian sạc Khoảng 1 giờThời gian chờ 120 giờPin Li có thể sạc lại 60 mAhBộ nguồn DC 5 V ,cổng USB máy tính, bộ sạc điện thoại di động, bộ sạc xe hơiTương thích với hầu hết tất cả các hệ thống Android, Apple, Microsoft với điện thoại di động Bluetooth."
+            ], 
+            "discount": "-23%", 
+            "icons": [
+                {
+                    "alias": "birthBadge", 
+                    "domClass": "birthBadge", 
+                    "font-size": 0, 
+                    "group": "1", 
+                    "order": -1, 
+                    "showType": "0", 
+                    "text": "", 
+                    "type": "img"
+                }, 
+                {
+                    "alias": "FsAlias", 
+                    "domClass": "freeShipping", 
+                    "font-size": 0, 
+                    "group": "2", 
+                    "order": 0, 
+                    "showType": "0", 
+                    "text": "FreeShipping", 
+                    "type": "img"
+                }
+            ], 
+            "image": "https://vn-test-11.slatic.net/p/d0f70c564ae1e485ab4ba47f7fb7e2f3.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "258588025", 
+            "location": "Hồ Chí Minh", 
+            "name": "tai nghe bluetooth khong day cho IPHONE ,SAMSUNG ,HTC,OPPO,NOKIA...", 
+            "nid": "258588025", 
+            "originalPrice": "150000.00", 
+            "originalPriceShow": "150.000 ₫", 
+            "price": "115000.00", 
+            "priceShow": "115.000 ₫", 
+            "productUrl": "//www.lazada.vn/products/tai-nghe-bluetooth-khong-day-cho-iphone-samsung-htcopponokia-i258588025-s358720882.html?search=1", 
+            "ratingScore": "4.425", 
+            "restrictedAge": 0, 
+            "review": "40", 
+            "sellerId": "100011588", 
+            "sellerName": "3H COMPUTER", 
+            "sku": "258588025_VNAMZ", 
+            "skuId": "358720882", 
+            "skus": [
+                {
+                    "id": "258588025_VNAMZ-358720882"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-test-11.slatic.net/p/d0f70c564ae1e485ab4ba47f7fb7e2f3.jpg", 
+                    "productUrl": "//www.lazada.vn/products/tai-nghe-bluetooth-khong-day-cho-iphone-samsung-htcopponokia-i258588025-s358720882.html?search=1", 
+                    "sku": "258588025_VNAMZ", 
+                    "skuId": "358720882"
+                }
+            ], 
+            "voucherId": "203125409411588"
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "266904530_VNAMZ-388222970", 
+                    "skuId": "388222970"
+                }
+            ], 
+            "brandId": "8334", 
+            "brandName": "Hopo's", 
+            "categories": [
+                4403, 
+                4564, 
+                11421, 
+                11433, 
+                11434
+            ], 
+            "cheapest_sku": "266904530_VNAMZ-388222970", 
+            "clickTrace": "query:bluetooth;nid:266904530;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:266904530_VNAMZ;price:34100.00;client:desktop;supplier_id:100204305;asc_category_id:11434;item_id:266904530;sku_id:388222970;shop_id:195936", 
+            "description": [
+                "- Model: B09", 
+                "- Bluetooth: V4.0", 
+                "- Khả năng tương thích: Hầu hết tất cả các thiết bị hỗ trợ Bluetooth", 
+                "- Bluetooth Phạm vi: 10m (khoảng 33ft)", 
+                "- Trọng lượng thiết bị: Khoảng 7g", 
+                "- Kích thước: 58 * 12 * 15mm", 
+                "- Chất liệu: Xi măng nhựa ABS", 
+                "- Pin: 100mA Pin sạc lithium-ion Polime", 
+                "- Thời gian làm việc: Khoảng 6h-8h", 
+                "- Thời gian sạc: Khoảng 1-2 giờ sạc đầy", 
+                "- Điện áp làm việc: 5V2A★ B09 Dùng Để thay thế tai nghe Bluetooth - Đây là bộ chuyển đổi âm thanh có dây sang âm thanh không dây, bạn có thể cắm và thưởng thức âm nhạc của mình với tai nghe / loa / amply có jack 3,5mm với điện thoại thông minh bằng không dây .", 
+                "★ B09 Là Bộ chuyển đổi xe hơi Bluetooth 4.1 di động - Với bộ chuyển đổi âm thanh nổi nam sang âm thanh 3,5mm, âm nhạc không dây của bạn từ điện thoại thông minh hoặc máy tính bảng có thể được truyền đến âm thanh xe hơi của bạn.", 
+                "★ B09 Là Bộ thu không dây âm thanh nổi tại nhà - Khoảng cách kết nối khoảng 10 mét, thưởng thức âm nhạc của bạn không dây tại nhà.", 
+                "★ Chức năng hoàn chỉnh kích thước nhỏ gọn, Bộ thu B09 có thể tương thích với hầu hết điện thoại thông minh và điện tử có Bluetooth; Tích hợp MICRO bên trong có thể hỗ trợ các tính năng nói chuyện, điều khiển âm lượng, trả lời, gác máy và bỏ qua âm nhạc."
+            ], 
+            "discount": "-17%", 
+            "icons": [], 
+            "image": "https://vn-test-11.slatic.net/p/86c9180706ef94c1df281af0c07dfd43.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "266904530", 
+            "location": "Việt Nam", 
+            "name": "Bộ Chuyển Đổi BLuetooth Không Dây B09, Sử dụng cho Ampli hoặc trên xe hơi, Bluetooth 4.0", 
+            "nid": "266904530", 
+            "originalPrice": "40920.00", 
+            "originalPriceShow": "40.920 ₫", 
+            "price": "34100.00", 
+            "priceShow": "34.100 ₫", 
+            "productUrl": "//www.lazada.vn/products/bo-chuyen-doi-bluetooth-khong-day-b09-su-dung-cho-ampli-hoac-tren-xe-hoi-bluetooth-40-i266904530-s388222970.html?search=1", 
+            "ratingScore": "0", 
+            "restrictedAge": 0, 
+            "review": "0", 
+            "sellerId": "100204305", 
+            "sellerName": "Hoàng Phúc F2B", 
+            "sku": "266904530_VNAMZ", 
+            "skuId": "388222970", 
+            "skus": [
+                {
+                    "id": "266904530_VNAMZ-388222970"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-test-11.slatic.net/p/86c9180706ef94c1df281af0c07dfd43.jpg", 
+                    "productUrl": "//www.lazada.vn/products/bo-chuyen-doi-bluetooth-khong-day-b09-su-dung-cho-ampli-hoac-tren-xe-hoi-bluetooth-40-i266904530-s388222970.html?search=1", 
+                    "sku": "266904530_VNAMZ", 
+                    "skuId": "388222970"
+                }
+            ], 
+            "voucherId": ""
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "OE680ELAA9ZXENVNAMZ-20034288", 
+                    "skuId": "139580922"
+                }
+            ], 
+            "brandId": "18094", 
+            "brandName": "OEM", 
+            "categories": [
+                4403, 
+                4564, 
+                5009, 
+                11412
+            ], 
+            "cheapest_sku": "OE680ELAA9ZXENVNAMZ-20034288", 
+            "clickTrace": "query:bluetooth;nid:16792799;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:OE680ELAA9ZXENVNAMZ;price:28000.00;client:desktop;supplier_id:929;asc_category_id:11412;item_id:137030977;sku_id:139580922;shop_id:1369", 
+            "description": [
+                "Công nghệ Bluetooth V4.1", 
+                "Công nghệ chống ồn hiệu quả", 
+                "Đảm bảo an toàn tuyệt đối về mức sóng từ", 
+                "Âm thanh chất lượng", 
+                "Hỗ trợ đàm thoại liên tục lên đến 3 giờ", 
+                "Thời gian chờ lên đến 100 giờ"
+            ], 
+            "discount": "-44%", 
+            "icons": [
+                {
+                    "alias": "birthBadge", 
+                    "domClass": "birthBadge", 
+                    "font-size": 0, 
+                    "group": "1", 
+                    "order": -1, 
+                    "showType": "0", 
+                    "text": "", 
+                    "type": "img"
+                }, 
+                {
+                    "alias": "FsAlias", 
+                    "domClass": "freeShipping", 
+                    "font-size": 0, 
+                    "group": "2", 
+                    "order": 0, 
+                    "showType": "0", 
+                    "text": "FreeShipping", 
+                    "type": "img"
+                }
+            ], 
+            "image": "https://vn-test-11.slatic.net/p/2/tai-nghe-bluetooth-nhet-tai-khong-day-hat-dau-s530-6892-99729761-24d03a056a28663dd1b9493264ee3d54-catalog_233.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "137030977", 
+            "location": "Hồ Chí Minh", 
+            "name": "Tai nghe bluetooth nhét tai không dây hạt đậu S530", 
+            "nid": "16792799", 
+            "originalPrice": "50000.00", 
+            "originalPriceShow": "50.000 ₫", 
+            "price": "28000.00", 
+            "priceShow": "28.000 ₫", 
+            "productUrl": "//www.lazada.vn/products/tai-nghe-bluetooth-nhet-tai-khong-day-hat-dau-s530-i137030977-s139580922.html?search=1", 
+            "ratingScore": "3.83636", 
+            "restrictedAge": 0, 
+            "review": "440", 
+            "sellerId": "929", 
+            "sellerName": "Trường Vinh 139 (Tp.HCM)", 
+            "sku": "OE680ELAA9ZXENVNAMZ", 
+            "skuId": "139580922", 
+            "skus": [
+                {
+                    "id": "OE680ELAA9ZXENVNAMZ-20034288"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-test-11.slatic.net/p/2/tai-nghe-bluetooth-nhet-tai-khong-day-hat-dau-s530-6892-99729761-24d03a056a28663dd1b9493264ee3d54-gallery.jpg", 
+                    "productUrl": "//www.lazada.vn/products/tai-nghe-bluetooth-nhet-tai-khong-day-hat-dau-s530-i137030977-s139580922.html?search=1", 
+                    "sku": "OE680ELAA9ZXENVNAMZ", 
+                    "skuId": "139580922"
+                }
+            ], 
+            "voucherId": "203229203400929"
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "260672949_VNAMZ-365624515", 
+                    "skuId": "365624515"
+                }
+            ], 
+            "brandId": "18094", 
+            "brandName": "OEM", 
+            "categories": [
+                4403, 
+                4564, 
+                5009, 
+                11412
+            ], 
+            "cheapest_sku": "260672949_VNAMZ-365624515", 
+            "clickTrace": "query:bluetooth;nid:260672949;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:260672949_VNAMZ;price:39000.00;client:desktop;supplier_id:100139273;asc_category_id:11412;item_id:260672949;sku_id:365624515;shop_id:136836", 
+            "description": [
+                "Âm thanh trung thực bass, tress hiệu quả.", 
+                "Hộ trợ cho cuộc sống năng động.", 
+                "Dùng cho tất cả các loại điện thoại IPhone, Samsung, Oppo, LG, Lumia, Xiaomi ... nhanh chóng dễ dàng.", 
+                "Tai nghe đeo cực kì êm tai,dễ chịu Tai nghe chuẩn Stereo kèm Micro Thiết kế sang trọng đẳng cấp .", 
+                "Thời gian sạc: 2-4h", 
+                "Thời gian đàm thoại và nghe nhạc: 4-5h"
+            ], 
+            "icons": [
+                {
+                    "alias": "birthBadge", 
+                    "domClass": "birthBadge", 
+                    "font-size": 0, 
+                    "group": "1", 
+                    "order": -1, 
+                    "showType": "0", 
+                    "text": "", 
+                    "type": "img"
+                }
+            ], 
+            "image": "https://vn-test-11.slatic.net/p/441cb6175e208517d0b56680f896634b.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "260672949", 
+            "location": "Hồ Chí Minh", 
+            "name": "Tai nghe bluetooth SIÊU BASS 2 bên S6 choàng cổ thời trang", 
+            "nid": "260672949", 
+            "price": "39000.00", 
+            "priceShow": "39.000 ₫", 
+            "productUrl": "//www.lazada.vn/products/tai-nghe-bluetooth-sieu-bass-2-ben-s6-choang-co-thoi-trang-i260672949-s365624515.html?search=1", 
+            "ratingScore": "4.25", 
+            "restrictedAge": 0, 
+            "review": "12", 
+            "sellerId": "100139273", 
+            "sellerName": "Phụ kiện sỉ 68", 
+            "sku": "260672949_VNAMZ", 
+            "skuId": "365624515", 
+            "skus": [
+                {
+                    "id": "260672949_VNAMZ-365624515"
+                }, 
+                {
+                    "id": "260672949_VNAMZ-365624516"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-test-11.slatic.net/p/441cb6175e208517d0b56680f896634b.jpg", 
+                    "productUrl": "//www.lazada.vn/products/tai-nghe-bluetooth-sieu-bass-2-ben-s6-choang-co-thoi-trang-i260672949-s365624515.html?search=1", 
+                    "sku": "260672949_VNAMZ", 
+                    "skuId": "365624515"
+                }, 
+                {
+                    "image": "https://vn-test-11.slatic.net/p/72f4db8f9b41992b985bbdb2db62c3c0.jpg", 
+                    "productUrl": "//www.lazada.vn/products/tai-nghe-bluetooth-sieu-bass-2-ben-s6-choang-co-thoi-trang-i260672949-s365624516.html?search=1", 
+                    "sku": "260672949_VNAMZ", 
+                    "skuId": "365624516"
+                }
+            ], 
+            "voucherId": ""
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "264848563_VNAMZ-380504292", 
+                    "skuId": "380504292"
+                }
+            ], 
+            "brandId": "18094", 
+            "brandName": "OEM", 
+            "categories": [
+                4403, 
+                4564, 
+                5009, 
+                11412
+            ], 
+            "cheapest_sku": "264848563_VNAMZ-380504292", 
+            "clickTrace": "query:bluetooth;nid:264848563;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:264848563_VNAMZ;price:50000.00;client:desktop;supplier_id:1000018606;asc_category_id:11412;item_id:264848563;sku_id:380504292;shop_id:277357", 
+            "description": [
+                "Pin khỏe Nghe nhạc 3h, đàm thoại 4h, chờ 50h", 
+                "Giảm tiếng ồn thông minh CVC 6.0 nâng cao chất lượng cuộc gọi", 
+                "Chống nước theo tiêu chuẩn IPX4", 
+                "Chất lượng âm thanh tốt , âm Bass khỏe.", 
+                "Dữ liệu truyền tải liên tục không bị gián đoạn , ngắt quãng, loại bỏ tạp âm tốt"
+            ], 
+            "discount": "-44%", 
+            "icons": [
+                {
+                    "alias": "birthBadge", 
+                    "domClass": "birthBadge", 
+                    "font-size": 0, 
+                    "group": "1", 
+                    "order": -1, 
+                    "showType": "0", 
+                    "text": "", 
+                    "type": "img"
+                }, 
+                {
+                    "alias": "FsAlias", 
+                    "domClass": "freeShipping", 
+                    "font-size": 0, 
+                    "group": "2", 
+                    "order": 0, 
+                    "showType": "0", 
+                    "text": "FreeShipping", 
+                    "type": "img"
+                }
+            ], 
+            "image": "https://vn-test-11.slatic.net/p/3433bbba3e56a52d34835ceda5f52668.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "264848563", 
+            "location": "Hà Nội", 
+            "name": "[Bán chạy] -Tai nghe Bluetooth Heatset thể thao S9- chống nước, chống mồ hôi- tai nghe không dây pin trâu bass mạnh tặng kèm cáp sạc 27k-Màu giao ngẫu nhiên-GREEN STORES", 
+            "nid": "264848563", 
+            "originalPrice": "88900.00", 
+            "originalPriceShow": "88.900 ₫", 
+            "price": "50000.00", 
+            "priceShow": "50.000 ₫", 
+            "productUrl": "//www.lazada.vn/products/ban-chay-tai-nghe-bluetooth-heatset-the-thao-s9-chong-nuoc-chong-mo-hoi-tai-nghe-khong-day-pin-trau-bass-manh-tang-kem-cap-sac-27k-mau-giao-ngau-nhien-green-stores-i264848563-s380504292.html?search=1", 
+            "ratingScore": "5", 
+            "restrictedAge": 0, 
+            "review": "7", 
+            "sellerId": "1000018606", 
+            "sellerName": "GREEN STORES", 
+            "sku": "264848563_VNAMZ", 
+            "skuId": "380504292", 
+            "skus": [
+                {
+                    "id": "264848563_VNAMZ-380504292"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-test-11.slatic.net/p/3433bbba3e56a52d34835ceda5f52668.jpg", 
+                    "productUrl": "//www.lazada.vn/products/ban-chay-tai-nghe-bluetooth-heatset-the-thao-s9-chong-nuoc-chong-mo-hoi-tai-nghe-khong-day-pin-trau-bass-manh-tang-kem-cap-sac-27k-mau-giao-ngau-nhien-green-stores-i264848563-s380504292.html?search=1", 
+                    "sku": "264848563_VNAMZ", 
+                    "skuId": "380504292"
+                }
+            ], 
+            "voucherId": "203043002018606\u001d203065400218606\u001d203104003318606\u001d203104813918606\u001d203128605018606\u001d203187802218606\u001d203204808918606\u001d203209008118606"
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "253999451_VNAMZ-342254834", 
+                    "skuId": "342254834"
+                }
+            ], 
+            "brandId": "65074", 
+            "brandName": "No Brand", 
+            "categories": [
+                4403, 
+                4564, 
+                11421, 
+                11433, 
+                11434
+            ], 
+            "cheapest_sku": "253999451_VNAMZ-342254834", 
+            "clickTrace": "query:bluetooth;nid:253999451;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:253999451_VNAMZ;price:39000.00;client:desktop;supplier_id:100011588;asc_category_id:11434;item_id:253999451;sku_id:342254834;shop_id:1165", 
+            "description": [
+                " Tên sản phẩm: USB Bluetooth DongleCông dụng: nâng cấp tính năng Bluetooth cho các loa mini, loa di độngKết nối: USBTruyền âm thanh trực tiếp qua ngõ USB hoặc ngõ 3.5mm trên thiết bịHỗ trợ: AD2P, AVRCP, AVDP, HFP, HSP, USB Audio và HIDCông nghệ sử dụng: Bluetooth 4.0Thay thế ngõ AUX 3.5mm trong trường hợp cần thiếtPhạm vi hoạt động: 8 – 10m"
+            ], 
+            "discount": "-44%", 
+            "icons": [
+                {
+                    "alias": "birthBadge", 
+                    "domClass": "birthBadge", 
+                    "font-size": 0, 
+                    "group": "1", 
+                    "order": -1, 
+                    "showType": "0", 
+                    "text": "", 
+                    "type": "img"
+                }, 
+                {
+                    "alias": "FsAlias", 
+                    "domClass": "freeShipping", 
+                    "font-size": 0, 
+                    "group": "2", 
+                    "order": 0, 
+                    "showType": "0", 
+                    "text": "FreeShipping", 
+                    "type": "img"
+                }
+            ], 
+            "image": "https://vn-test-11.slatic.net/p/e741fffd60014031f46f59990e7e92cd.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "253999451", 
+            "location": "Hồ Chí Minh", 
+            "name": "USB Bluetooth 4.0 kết nối Loa Thường Thành Loa Bluetooth", 
+            "nid": "253999451", 
+            "originalPrice": "70000.00", 
+            "originalPriceShow": "70.000 ₫", 
+            "price": "39000.00", 
+            "priceShow": "39.000 ₫", 
+            "productUrl": "//www.lazada.vn/products/usb-bluetooth-40-ket-noi-loa-thuong-thanh-loa-bluetooth-i253999451-s342254834.html?search=1", 
+            "ratingScore": "5", 
+            "restrictedAge": 0, 
+            "review": "3", 
+            "sellerId": "100011588", 
+            "sellerName": "3H COMPUTER", 
+            "sku": "253999451_VNAMZ", 
+            "skuId": "342254834", 
+            "skus": [
+                {
+                    "id": "253999451_VNAMZ-342254834"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-test-11.slatic.net/p/e741fffd60014031f46f59990e7e92cd.jpg", 
+                    "productUrl": "//www.lazada.vn/products/usb-bluetooth-40-ket-noi-loa-thuong-thanh-loa-bluetooth-i253999451-s342254834.html?search=1", 
+                    "sku": "253999451_VNAMZ", 
+                    "skuId": "342254834"
+                }
+            ], 
+            "voucherId": "203125409411588"
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "210324493_VNAMZ-390170494", 
+                    "skuId": "390170494"
+                }
+            ], 
+            "brandId": "154102", 
+            "brandName": "Tai Nghe Bluetooth", 
+            "categories": [
+                4403, 
+                4564, 
+                5009, 
+                11412
+            ], 
+            "cheapest_sku": "210324493_VNAMZ-390170494", 
+            "clickTrace": "query:bluetooth;nid:210324493;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:210324493_VNAMZ;price:59000.00;client:desktop;supplier_id:100140338;asc_category_id:11412;item_id:210324493;sku_id:390170494;shop_id:137616", 
+            "description": [
+                "Thiết kế nhỏ gọn, tiện lợi nhưng cũng không kém phần độc đáo, sang trọng", 
+                "Âm thanh cực chất, đảm bảo làm hài lòng đối với cả những khách hàng khó tính nhất.", 
+                "Màu sắc: đen sang trọng", 
+                "Phù hợp cho mọi hoạt động"
+            ], 
+            "discount": "-41%", 
+            "icons": [
+                {
+                    "alias": "birthBadge", 
+                    "domClass": "birthBadge", 
+                    "font-size": 0, 
+                    "group": "1", 
+                    "order": -1, 
+                    "showType": "0", 
+                    "text": "", 
+                    "type": "img"
+                }
+            ], 
+            "image": "https://vn-test-11.slatic.net/p/d5f3cf1b6edb7e2cf99edf967266f4e0.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "210324493", 
+            "location": "Hồ Chí Minh", 
+            "name": "TAI NGHE XIAOMI-Mizin HỘP MEKA CỰC HAY - TAI PHONE", 
+            "nid": "210324493", 
+            "originalPrice": "100000.00", 
+            "originalPriceShow": "100.000 ₫", 
+            "price": "59000.00", 
+            "priceShow": "59.000 ₫", 
+            "productUrl": "//www.lazada.vn/products/tai-nghe-xiaomi-mizin-hop-meka-cuc-hay-tai-phone-i210324493-s390170494.html?search=1", 
+            "ratingScore": "4.60714", 
+            "restrictedAge": 0, 
+            "review": "56", 
+            "sellerId": "100140338", 
+            "sellerName": "Vanastore", 
+            "sku": "210324493_VNAMZ", 
+            "skuId": "390170494", 
+            "skus": [
+                {
+                    "id": "210324493_VNAMZ-390170494"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-test-11.slatic.net/p/d5f3cf1b6edb7e2cf99edf967266f4e0.jpg", 
+                    "productUrl": "//www.lazada.vn/products/tai-nghe-xiaomi-mizin-hop-meka-cuc-hay-tai-phone-i210324493-s390170494.html?search=1", 
+                    "sku": "210324493_VNAMZ", 
+                    "skuId": "390170494"
+                }
+            ], 
+            "voucherId": "203028404040338\u001d203030003440338"
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "224716095_VNAMZ-283477280", 
+                    "skuId": "283477280"
+                }
+            ], 
+            "brandId": "18094", 
+            "brandName": "OEM", 
+            "categories": [
+                4403, 
+                4564, 
+                5009, 
+                11412
+            ], 
+            "cheapest_sku": "224716095_VNAMZ-283477280", 
+            "clickTrace": "query:bluetooth;nid:224716095;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:224716095_VNAMZ;price:36000.00;client:desktop;supplier_id:100024741;asc_category_id:11412;item_id:224716095;sku_id:283477280;shop_id:775", 
+            "description": [
+                "Bảo hành 1 tháng", 
+                "Có chống mồ hôi, chống nước nhẹ", 
+                "Đa dụng ở nhu cầu phổ thông", 
+                "Đeo chắc chắn", 
+                "Cam kết bảo hành 1 đổi 1 trong vòng 7 ngày", 
+                "Công suất đầu ra 10mW", 
+                "Thời gian sạc: Khoảng 1h", 
+                "Thời gian đàm thoại 2-3giờ", 
+                "Thời gian nghe nhạc 2-3giờ"
+            ], 
+            "discount": "-48%", 
+            "icons": [], 
+            "image": "https://vn-test-11.slatic.net/p/0b0acfa5c24a4f37608b4970e9c12bd0.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "224716095", 
+            "location": "Hà Nội", 
+            "name": "[ XẢ KHO 3 NGÀY] Tai nghe Bluetooth S8 - Tai nghe không dây,Tai nghe Bluetooth, Tai nghe không dây, Tai nghe nhét tai không dây, Tai nghe Bluetooth không dây, Tai nghe nhét tai + Tặng kèm dây sạc 28K - Eco Boss", 
+            "nid": "224716095", 
+            "originalPrice": "69000.00", 
+            "originalPriceShow": "69.000 ₫", 
+            "price": "36000.00", 
+            "priceShow": "36.000 ₫", 
+            "productUrl": "//www.lazada.vn/products/xa-kho-3-ngay-tai-nghe-bluetooth-s8-tai-nghe-khong-daytai-nghe-bluetooth-tai-nghe-khong-day-tai-nghe-nhet-tai-khong-day-tai-nghe-bluetooth-khong-day-tai-nghe-nhet-tai-tang-kem-day-sac-28k-eco-boss-i224716095-s283477280.html?search=1", 
+            "ratingScore": "3.92707", 
+            "restrictedAge": 0, 
+            "review": "617", 
+            "sellerId": "100024741", 
+            "sellerName": "Eco Boss", 
+            "sku": "224716095_VNAMZ", 
+            "skuId": "283477280", 
+            "skus": [
+                {
+                    "id": "224716095_VNAMZ-283477280"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-test-11.slatic.net/p/0b0acfa5c24a4f37608b4970e9c12bd0.jpg", 
+                    "productUrl": "//www.lazada.vn/products/xa-kho-3-ngay-tai-nghe-bluetooth-s8-tai-nghe-khong-daytai-nghe-bluetooth-tai-nghe-khong-day-tai-nghe-nhet-tai-khong-day-tai-nghe-bluetooth-khong-day-tai-nghe-nhet-tai-tang-kem-day-sac-28k-eco-boss-i224716095-s283477280.html?search=1", 
+                    "sku": "224716095_VNAMZ", 
+                    "skuId": "283477280"
+                }
+            ], 
+            "voucherId": "203005804624741\u001d203031604424741\u001d203104206124741\u001d203111606224741\u001d203112006024741\u001d203113006524741\u001d203114406324741\u001d203114805724741\u001d201616007324741\u001d201631406824741\u001d201642801124741"
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "239722014_VNAMZ-306180013", 
+                    "skuId": "306180013"
+                }
+            ], 
+            "brandId": "18094", 
+            "brandName": "OEM", 
+            "categories": [
+                4403, 
+                4564, 
+                5009, 
+                11412
+            ], 
+            "cheapest_sku": "239722014_VNAMZ-306180013", 
+            "clickTrace": "query:bluetooth;nid:239722014;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:239722014_VNAMZ;price:28500.00;client:desktop;supplier_id:100230661;asc_category_id:11412;item_id:239722014;sku_id:306180013;shop_id:222334", 
+            "description": [
+                "Kiểu dáng mạnh mẽ, thời trang cuốn hút giúp bạn luôn năng động trong mọi hoạt động", 
+                "Kết nối Bluetooth 4.1+EDR giúp khả năng kết nối nhanh, mạnh và xa với bán kính 10m , không bị rè hay tín hiệu kém", 
+                "Kiểu tai S8 nên đeo rất thoải mái, bám tai tốt, không bị khó chịu khi nghe lâu", 
+                "Nam châm từ tính 2 bên hút nhau tạo vòng đeo giúp giảm hoàn toàn trọng lượng 2 bên tai, thoải mái hoạt động và khi không dùng đến.", 
+                "Công nghệ Bluetooth : V4.0", 
+                "Khoảng cách sử dụng : 10m", 
+                "Thời gian đàm thoại : 6h", 
+                "Thời gian chờ : 120h", 
+                "Thời gian sạc: 2h", 
+                "Trọng lượng : 7.4g"
+            ], 
+            "discount": "-48%", 
+            "icons": [
+                {
+                    "alias": "birthBadge", 
+                    "domClass": "birthBadge", 
+                    "font-size": 0, 
+                    "group": "1", 
+                    "order": -1, 
+                    "showType": "0", 
+                    "text": "", 
+                    "type": "img"
+                }, 
+                {
+                    "alias": "FsAlias", 
+                    "domClass": "freeShipping", 
+                    "font-size": 0, 
+                    "group": "2", 
+                    "order": 0, 
+                    "showType": "0", 
+                    "text": "FreeShipping", 
+                    "type": "img"
+                }
+            ], 
+            "image": "https://vn-live-01.slatic.net/original/ae987021648649d5061c174f130dced3.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "239722014", 
+            "location": "Hà Nội", 
+            "name": "[GIÁ HỦY DIỆT] Tai Nghe Bluetooth Không Dây Sport S6 siêu bass (Tặng kèm dây sạc)", 
+            "nid": "239722014", 
+            "originalPrice": "55000.00", 
+            "originalPriceShow": "55.000 ₫", 
+            "price": "28500.00", 
+            "priceShow": "28.500 ₫", 
+            "productUrl": "//www.lazada.vn/products/gia-huy-diet-tai-nghe-bluetooth-khong-day-sport-s6-sieu-bass-tang-kem-day-sac-i239722014-s306180013.html?search=1", 
+            "ratingScore": "3.99338", 
+            "restrictedAge": 0, 
+            "review": "151", 
+            "sellerId": "100230661", 
+            "sellerName": "AHN Digital", 
+            "sku": "239722014_VNAMZ", 
+            "skuId": "306180013", 
+            "skus": [
+                {
+                    "id": "239722014_VNAMZ-306180013"
+                }, 
+                {
+                    "id": "239722014_VNAMZ-306180014"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-live-01.slatic.net/original/ae987021648649d5061c174f130dced3.jpg", 
+                    "productUrl": "//www.lazada.vn/products/gia-huy-diet-tai-nghe-bluetooth-khong-day-sport-s6-sieu-bass-tang-kem-day-sac-i239722014-s306180013.html?search=1", 
+                    "sku": "239722014_VNAMZ", 
+                    "skuId": "306180013"
+                }, 
+                {
+                    "image": "https://vn-live-01.slatic.net/original/ae987021648649d5061c174f130dced3.jpg", 
+                    "productUrl": "//www.lazada.vn/products/gia-huy-diet-tai-nghe-bluetooth-khong-day-sport-s6-sieu-bass-tang-kem-day-sac-i239722014-s306180014.html?search=1", 
+                    "sku": "239722014_VNAMZ", 
+                    "skuId": "306180014"
+                }
+            ], 
+            "voucherId": ""
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "248925203_VNAMZ-327056214", 
+                    "skuId": "327056214"
+                }
+            ], 
+            "brandId": "65074", 
+            "brandName": "No Brand", 
+            "categories": [
+                4403, 
+                4564, 
+                5009, 
+                11412
+            ], 
+            "cheapest_sku": "248925203_VNAMZ-327056214", 
+            "clickTrace": "query:bluetooth;nid:248925203;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:248925203_VNAMZ;price:75000.00;client:desktop;supplier_id:100233485;asc_category_id:11412;item_id:248925203;sku_id:327056214;shop_id:225164", 
+            "description": [
+                "- Tai nghe Bluetooth V4.1theo chuẩn Stereo, ưu việt hơn.- Dòng sản phẩm tương thích: Dòng máy Samsung, Nokia,Iphone,Vivo,Huawei,Oppo...- Chất lượng âm thanh chuẩn. Kiểu dáng trẻ trung, gọn nhẹ.- Sử dụng luôn cả chức năng nghe nhạc, đàm thoại.- Nghe nhạc, nghe điện thoại những vẫn rảnh cả hai tay để làm những việc, lái xe trên đường. Đặc biệt hiện nay có rất nhiều người sử dụng điện thoại hiện đại, to, nghe gọi rất bất tiện, vì vậy tai nghe Bluetooth là giải pháp tuyệt vời."
+            ], 
+            "discount": "-42%", 
+            "icons": [
+                {
+                    "alias": "birthBadge", 
+                    "domClass": "birthBadge", 
+                    "font-size": 0, 
+                    "group": "1", 
+                    "order": -1, 
+                    "showType": "0", 
+                    "text": "", 
+                    "type": "img"
+                }, 
+                {
+                    "alias": "FsAlias", 
+                    "domClass": "freeShipping", 
+                    "font-size": 0, 
+                    "group": "2", 
+                    "order": 0, 
+                    "showType": "0", 
+                    "text": "FreeShipping", 
+                    "type": "img"
+                }
+            ], 
+            "image": "https://vn-test-11.slatic.net/p/4473ccf45b1d6853b0365de2265c2a4e.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "248925203", 
+            "location": "Hồ Chí Minh", 
+            "name": "(Xả Hàng)-Tai Nghe Bluetooth SamSung Giá Yêu Thương-Nghe Hay( Tặng Kèm Móc Đeo Tai Nghe)", 
+            "nid": "248925203", 
+            "originalPrice": "130000.00", 
+            "originalPriceShow": "130.000 ₫", 
+            "price": "75000.00", 
+            "priceShow": "75.000 ₫", 
+            "productUrl": "//www.lazada.vn/products/xa-hang-tai-nghe-bluetooth-samsung-gia-yeu-thuong-nghe-hay-tang-kem-moc-deo-tai-nghe-i248925203-s327056214.html?search=1", 
+            "ratingScore": "4.59494", 
+            "restrictedAge": 0, 
+            "review": "79", 
+            "sellerId": "100233485", 
+            "sellerName": "VisionMobile", 
+            "sku": "248925203_VNAMZ", 
+            "skuId": "327056214", 
+            "skus": [
+                {
+                    "id": "248925203_VNAMZ-327056214"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-test-11.slatic.net/p/4473ccf45b1d6853b0365de2265c2a4e.jpg", 
+                    "productUrl": "//www.lazada.vn/products/xa-hang-tai-nghe-bluetooth-samsung-gia-yeu-thuong-nghe-hay-tang-kem-moc-deo-tai-nghe-i248925203-s327056214.html?search=1", 
+                    "sku": "248925203_VNAMZ", 
+                    "skuId": "327056214"
+                }
+            ], 
+            "voucherId": ""
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "BA714ELAA2QRY4VNAMZ-4710555", 
+                    "skuId": "100909047"
+                }
+            ], 
+            "brandId": "1699", 
+            "brandName": "Babylon", 
+            "categories": [
+                4403, 
+                4564, 
+                11421, 
+                11433, 
+                11434
+            ], 
+            "cheapest_sku": "BA714ELAA2QRY4VNAMZ-4710555", 
+            "clickTrace": "query:bluetooth;nid:4608508;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:BA714ELAA2QRY4VNAMZ;price:23000.00;client:desktop;supplier_id:100000735;asc_category_id:11434;item_id:100792403;sku_id:100909047;shop_id:26616", 
+            "description": [
+                "Kết nối Bluetooth (tầm xa 10m)", 
+                "Bluetooth v2.0 + EDR; hỗ trợ A2DP V1.2", 
+                "Jack âm thanh 3.5 mm", 
+                "Tỷ lệ tần số âm thanh: 44.1kHz và 48kHz"
+            ], 
+            "discount": "-43%", 
+            "icons": [], 
+            "image": "https://vn-test-11.slatic.net/p/35c20bddf67f7539536ae249b9c6641e.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "100792403", 
+            "location": "Hồ Chí Minh", 
+            "name": "USB Bluetooth Cho Loa Và Âm Ly BT-163 - Hàng nhập khẩu", 
+            "nid": "4608508", 
+            "originalPrice": "40000.00", 
+            "originalPriceShow": "40.000 ₫", 
+            "price": "23000.00", 
+            "priceShow": "23.000 ₫", 
+            "productUrl": "//www.lazada.vn/products/usb-bluetooth-cho-loa-va-am-ly-bt-163-hang-nhap-khau-i100792403-s100909047.html?search=1", 
+            "ratingScore": "4.17949", 
+            "restrictedAge": 0, 
+            "review": "39", 
+            "sellerId": "100000735", 
+            "sellerName": "SAMMY", 
+            "sku": "BA714ELAA2QRY4VNAMZ", 
+            "skuId": "100909047", 
+            "skus": [
+                {
+                    "id": "BA714ELAA2QRY4VNAMZ-4710555"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-test-11.slatic.net/p/35c20bddf67f7539536ae249b9c6641e.jpg", 
+                    "productUrl": "//www.lazada.vn/products/usb-bluetooth-cho-loa-va-am-ly-bt-163-hang-nhap-khau-i100792403-s100909047.html?search=1", 
+                    "sku": "BA714ELAA2QRY4VNAMZ", 
+                    "skuId": "100909047"
+                }
+            ], 
+            "voucherId": ""
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "264080697_VNAMZ-378210034", 
+                    "skuId": "378210034"
+                }
+            ], 
+            "brandId": "154102", 
+            "brandName": "Tai Nghe Bluetooth", 
+            "categories": [
+                4403, 
+                4564, 
+                5009, 
+                11412
+            ], 
+            "cheapest_sku": "264080697_VNAMZ-378210034", 
+            "clickTrace": "query:bluetooth;nid:264080697;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:264080697_VNAMZ;price:139000.00;client:desktop;supplier_id:100140338;asc_category_id:11412;item_id:264080697;sku_id:378210034;shop_id:137616", 
+            "description": [
+                "Thiết kế nhỏ gọn, tiện lợi nhưng cũng không kém phần độc đáo, sang trọng", 
+                "Âm thanh cực chất, đảm bảo làm hài lòng đối với cả những khách hàng khó tính nhất.", 
+                "Màu sắc: trắng", 
+                "Phù hợp cho mọi hoạt động đặc biệt tiện lợi cho người di chuyển giao thông trên đường, tập thể dục vận động......"
+            ], 
+            "discount": "-7%", 
+            "icons": [], 
+            "image": "https://vn-test-11.slatic.net/p/d0f70c564ae1e485ab4ba47f7fb7e2f3.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "264080697", 
+            "location": "Hồ Chí Minh", 
+            "name": "Tai Nghe Bluetooth Không Dây i7S TWS Cực Tiện Lợi", 
+            "nid": "264080697", 
+            "originalPrice": "150000.00", 
+            "originalPriceShow": "150.000 ₫", 
+            "price": "139000.00", 
+            "priceShow": "139.000 ₫", 
+            "productUrl": "//www.lazada.vn/products/tai-nghe-bluetooth-khong-day-i7s-tws-cuc-tien-loi-i264080697-s378210034.html?search=1", 
+            "ratingScore": "4.28571", 
+            "restrictedAge": 0, 
+            "review": "63", 
+            "sellerId": "100140338", 
+            "sellerName": "Vanastore", 
+            "sku": "264080697_VNAMZ", 
+            "skuId": "378210034", 
+            "skus": [
+                {
+                    "id": "264080697_VNAMZ-378210034"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-test-11.slatic.net/p/d0f70c564ae1e485ab4ba47f7fb7e2f3.jpg", 
+                    "productUrl": "//www.lazada.vn/products/tai-nghe-bluetooth-khong-day-i7s-tws-cuc-tien-loi-i264080697-s378210034.html?search=1", 
+                    "sku": "264080697_VNAMZ", 
+                    "skuId": "378210034"
+                }
+            ], 
+            "voucherId": "203028404040338\u001d203030003440338"
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "246474988_VNAMZ-316720674", 
+                    "skuId": "316720674"
+                }
+            ], 
+            "brandId": "65074", 
+            "brandName": "No Brand", 
+            "categories": [
+                4403, 
+                4564, 
+                5009, 
+                11412
+            ], 
+            "cheapest_sku": "246474988_VNAMZ-316720674", 
+            "clickTrace": "query:bluetooth;nid:246474988;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:246474988_VNAMZ;price:89000.00;client:desktop;supplier_id:100141157;asc_category_id:11412;item_id:246474988;sku_id:316720674;shop_id:138263", 
+            "description": [
+                "Tai Nghe Blueyooth I7s ", 
+                "Sử dụng công nghệ Bluetooth V4.1+ EDR mới", 
+                "Dung lượng pin 60mAh, thời gian sạc 1-2h", 
+                "Sử dụng liên tục 3-4h, thời gian chờ 120h.", 
+                "Kèm hộp sạc: cho dung lượng"
+            ], 
+            "discount": "-10%", 
+            "icons": [], 
+            "image": "https://vn-test-11.slatic.net/p/8ab3eda757d0ec5bfd089dfe8e4eff99.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "246474988", 
+            "location": "Hồ Chí Minh", 
+            "name": "Tai Nghe Bluetooth I7s", 
+            "nid": "246474988", 
+            "originalPrice": "99000.00", 
+            "originalPriceShow": "99.000 ₫", 
+            "price": "89000.00", 
+            "priceShow": "89.000 ₫", 
+            "productUrl": "//www.lazada.vn/products/tai-nghe-bluetooth-i7s-i246474988-s316720674.html?search=1", 
+            "ratingScore": "4.18216", 
+            "restrictedAge": 0, 
+            "review": "269", 
+            "sellerId": "100141157", 
+            "sellerName": "Lê Hằng Phụ Kiện", 
+            "sku": "246474988_VNAMZ", 
+            "skuId": "316720674", 
+            "skus": [
+                {
+                    "id": "246474988_VNAMZ-316720674"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-test-11.slatic.net/p/8ab3eda757d0ec5bfd089dfe8e4eff99.jpg", 
+                    "productUrl": "//www.lazada.vn/products/tai-nghe-bluetooth-i7s-i246474988-s316720674.html?search=1", 
+                    "sku": "246474988_VNAMZ", 
+                    "skuId": "316720674"
+                }
+            ], 
+            "voucherId": "203150403241157\u001d202446807141157\u001d202708406941157"
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "265190031_VNAMZ-381332125", 
+                    "skuId": "381332125"
+                }
+            ], 
+            "brandId": "65074", 
+            "brandName": "No Brand", 
+            "categories": [
+                4403, 
+                4564, 
+                11421, 
+                11433, 
+                11434
+            ], 
+            "cheapest_sku": "265190031_VNAMZ-381332125", 
+            "clickTrace": "query:bluetooth;nid:265190031;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:265190031_VNAMZ;price:37900.00;client:desktop;supplier_id:100094282;asc_category_id:11434;item_id:265190031;sku_id:381332125;shop_id:6960", 
+            "description": [
+                "Sản phẩm Bluetooth Music Receiver USB thế hệ 2: tạo bluetooth kết nối âm thanh được thiết siêu nhỏ", 
+                "Để bạn có thể trải nghiệm âm thanh một cách hoàn hảo.", 
+                "Siêu nhỏ; hiện đại và sang trọng với lớp vỏ ngoài bằng nhựa siêu bền", 
+                "Thiết bị nhận Bluetooth có thiết kế nhỏ gọn, rất tiện để bạn có thể bố trí dàn âm thanh theo cách phù hợp và đẹp mắt.Ngõ ra âm thanh 3.5 mm, với chất lượng stereo trung thực không bị suy hao so với bản gốc từ thiết bị phát.Thiết bị hoạt động trên chuẩn Bluetooth 2.0, tương thích với các điện thoại hỗ và các thiết bị phát kỹ thuật số khác có hỗ trợ bluetooth.Thông tin chi tiết+ Màu sắc: Màu đen+ Tính năng: Nhận tín hiệu âm thanh Bluetooth (không dây) cho Loa, Amply+ Khoảng cách họat động: 10-15 m+ Tương thích: Smartphone, laptop, máy tính bảng, Iphone, ipad, ipod, các thiết bị có kết nối Bluetooth khác+ Bluetooth v2.0 + EDR+ Tần số: 44.1 khz và 48 khz+ Ngõ ra âm thanh Stereo với jack 3.5mm+ Nguồn cấp : 5V qua cổng USB"
+            ], 
+            "discount": "-24%", 
+            "icons": [
+                {
+                    "alias": "birthBadge", 
+                    "domClass": "birthBadge", 
+                    "font-size": 0, 
+                    "group": "1", 
+                    "order": -1, 
+                    "showType": "0", 
+                    "text": "", 
+                    "type": "img"
+                }
+            ], 
+            "image": "https://vn-test-11.slatic.net/p/093875e83705a1496e20399d6c8cd58f.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "265190031", 
+            "location": "Hồ Chí Minh", 
+            "name": "USB Bluetooth kết nối Loa Thường thành loa không dây,rất bền", 
+            "nid": "265190031", 
+            "originalPrice": "50000.00", 
+            "originalPriceShow": "50.000 ₫", 
+            "price": "37900.00", 
+            "priceShow": "37.900 ₫", 
+            "productUrl": "//www.lazada.vn/products/usb-bluetooth-ket-noi-loa-thuong-thanh-loa-khong-dayrat-ben-i265190031-s381332125.html?search=1", 
+            "ratingScore": "5", 
+            "restrictedAge": 0, 
+            "review": "1", 
+            "sellerId": "100094282", 
+            "sellerName": "Shop MyMy.", 
+            "sku": "265190031_VNAMZ", 
+            "skuId": "381332125", 
+            "skus": [
+                {
+                    "id": "265190031_VNAMZ-381332125"
+                }, 
+                {
+                    "id": "265190031_VNAMZ-381332124"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-test-11.slatic.net/p/093875e83705a1496e20399d6c8cd58f.jpg", 
+                    "productUrl": "//www.lazada.vn/products/usb-bluetooth-ket-noi-loa-thuong-thanh-loa-khong-dayrat-ben-i265190031-s381332125.html?search=1", 
+                    "sku": "265190031_VNAMZ", 
+                    "skuId": "381332125"
+                }, 
+                {
+                    "image": "https://vn-test-11.slatic.net/p/1ebe5bd959efec78206b45f5a7bf4954.jpg", 
+                    "productUrl": "//www.lazada.vn/products/usb-bluetooth-ket-noi-loa-thuong-thanh-loa-khong-dayrat-ben-i265190031-s381332124.html?search=1", 
+                    "sku": "265190031_VNAMZ", 
+                    "skuId": "381332124"
+                }
+            ], 
+            "voucherId": ""
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "253897677_VNAMZ-342265928", 
+                    "skuId": "342265928"
+                }
+            ], 
+            "brandId": "65074", 
+            "brandName": "No Brand", 
+            "categories": [
+                4403, 
+                4564, 
+                11421, 
+                11433, 
+                11434
+            ], 
+            "cheapest_sku": "253897677_VNAMZ-342265928", 
+            "clickTrace": "query:bluetooth;nid:253897677;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:253897677_VNAMZ;price:39000.00;client:desktop;supplier_id:100011588;asc_category_id:11434;item_id:253897677;sku_id:342265928;shop_id:1165", 
+            "description": [
+                "Thiết kế nhỏ gọn", 
+                "bắt sóng từ 8 đến 10m", 
+                "tốc độ truyền 4.0", 
+                "có dây 3,5mm kèm theo", 
+                "kết nối được tất các loại thiết bị"
+            ], 
+            "discount": "-44%", 
+            "icons": [
+                {
+                    "alias": "birthBadge", 
+                    "domClass": "birthBadge", 
+                    "font-size": 0, 
+                    "group": "1", 
+                    "order": -1, 
+                    "showType": "0", 
+                    "text": "", 
+                    "type": "img"
+                }, 
+                {
+                    "alias": "FsAlias", 
+                    "domClass": "freeShipping", 
+                    "font-size": 0, 
+                    "group": "2", 
+                    "order": 0, 
+                    "showType": "0", 
+                    "text": "FreeShipping", 
+                    "type": "img"
+                }
+            ], 
+            "image": "https://vn-test-11.slatic.net/p/e97f111675a80538ce073597e1a97e2c.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "253897677", 
+            "location": "Hồ Chí Minh", 
+            "name": "USB Bluetooth 4.0 kết nối Loa Thường Thành Loa Bluetooth", 
+            "nid": "253897677", 
+            "originalPrice": "70000.00", 
+            "originalPriceShow": "70.000 ₫", 
+            "price": "39000.00", 
+            "priceShow": "39.000 ₫", 
+            "productUrl": "//www.lazada.vn/products/usb-bluetooth-40-ket-noi-loa-thuong-thanh-loa-bluetooth-i253897677-s342265928.html?search=1", 
+            "ratingScore": "4.56", 
+            "restrictedAge": 0, 
+            "review": "50", 
+            "sellerId": "100011588", 
+            "sellerName": "3H COMPUTER", 
+            "sku": "253897677_VNAMZ", 
+            "skuId": "342265928", 
+            "skus": [
+                {
+                    "id": "253897677_VNAMZ-342265928"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-test-11.slatic.net/p/e97f111675a80538ce073597e1a97e2c.jpg", 
+                    "productUrl": "//www.lazada.vn/products/usb-bluetooth-40-ket-noi-loa-thuong-thanh-loa-bluetooth-i253897677-s342265928.html?search=1", 
+                    "sku": "253897677_VNAMZ", 
+                    "skuId": "342265928"
+                }
+            ], 
+            "voucherId": "203125409411588"
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "OE680ELAA4B5BGVNAMZ-7862553", 
+                    "skuId": "104078506"
+                }
+            ], 
+            "brandId": "18094", 
+            "brandName": "OEM", 
+            "categories": [
+                4403, 
+                4564, 
+                5009, 
+                11412
+            ], 
+            "cheapest_sku": "OE680ELAA4B5BGVNAMZ-7862553", 
+            "clickTrace": "query:bluetooth;nid:7238572;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:OE680ELAA4B5BGVNAMZ;price:27999.00;client:desktop;supplier_id:6595;asc_category_id:11412;item_id:103286195;sku_id:104078506;shop_id:340", 
+            "description": [
+                "ai nghe bluetooth siêu nhỏ. Thiết kế gọn, nhẹ, dễ sử dụng, kiểu dáng thời trang", 
+                "Kích thước gọn gàng, tiện dụng là sự lựa chọn lý tưởng của các tín đồ công nghệ giúp bạn tận hưởng trọn vẹn từng âm sắc", 
+                "Thiết kế tai nghe không dây hiện đại, độc đáo, sang trọng và tinh tế là sự lựa chọn lý tưởng của các tín đồ công nghệ giúp bạn tận hưởng âm thanh hoàn hảo", 
+                "Tái tạo âm thanh chính xác và trung thực tuyệt đối vô cùng tiện dụng giúp bạn xua tan những muộn phiền trong cuộc sống và yêu đời hơn", 
+                "Thiết kế gọn nhẹ và bắt mắt, cho bạn sự tiện lợi, chắc chắn khi đeo cho bạn trải nghiệm những cung bậc cảm xúc mà âm nhạc mang lại cho bạn"
+            ], 
+            "discount": "-36%", 
+            "icons": [
+                {
+                    "alias": "birthBadge", 
+                    "domClass": "birthBadge", 
+                    "font-size": 0, 
+                    "group": "1", 
+                    "order": -1, 
+                    "showType": "0", 
+                    "text": "", 
+                    "type": "img"
+                }
+            ], 
+            "image": "https://vn-test-11.slatic.net/p/2/tai-nghe-s530-thoi-trang-2236-2758327-de3db7a1e8af6713a350e61faa3f6081-catalog_233.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "103286195", 
+            "location": "Hà Nội", 
+            "name": "Tai nghe S530 thời trang ", 
+            "nid": "7238572", 
+            "originalPrice": "44000.00", 
+            "originalPriceShow": "44.000 ₫", 
+            "price": "27999.00", 
+            "priceShow": "27.999 ₫", 
+            "productUrl": "//www.lazada.vn/products/tai-nghe-s530-thoi-trang-i103286195-s104078506.html?search=1", 
+            "ratingScore": "3.85577", 
+            "restrictedAge": 0, 
+            "review": "104", 
+            "sellerId": "6595", 
+            "sellerName": "Bảo An Store", 
+            "sku": "OE680ELAA4B5BGVNAMZ", 
+            "skuId": "104078506", 
+            "skus": [
+                {
+                    "id": "OE680ELAA4B5BGVNAMZ-7862553"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-test-11.slatic.net/p/2/tai-nghe-s530-thoi-trang-2236-2758327-de3db7a1e8af6713a350e61faa3f6081-gallery.jpg", 
+                    "productUrl": "//www.lazada.vn/products/tai-nghe-s530-thoi-trang-i103286195-s104078506.html?search=1", 
+                    "sku": "OE680ELAA4B5BGVNAMZ", 
+                    "skuId": "104078506"
+                }
+            ], 
+            "voucherId": "203125008906595"
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "CO806ELAA3GQIYVNAMZ-6097791", 
+                    "skuId": "102371295"
+                }
+            ], 
+            "brandId": "4379", 
+            "brandName": "CO HOI MUA", 
+            "categories": [
+                4403, 
+                4564, 
+                11421, 
+                11433, 
+                11434
+            ], 
+            "cheapest_sku": "CO806ELAA3GQIYVNAMZ-6097791", 
+            "clickTrace": "query:bluetooth;nid:5819722;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:CO806ELAA3GQIYVNAMZ;price:20000.00;client:desktop;supplier_id:100006644;asc_category_id:11434;item_id:101995061;sku_id:102371295;shop_id:2938", 
+            "description": [
+                "Thiết kế nhỏ gọn", 
+                "Nguồn cấp : 5V qua cổng USB", 
+                "Ngõ ra âm thanh Stereo với jack 3.5mm"
+            ], 
+            "discount": "-49%", 
+            "icons": [
+                {
+                    "alias": "birthBadge", 
+                    "domClass": "birthBadge", 
+                    "font-size": 0, 
+                    "group": "1", 
+                    "order": -1, 
+                    "showType": "0", 
+                    "text": "", 
+                    "type": "img"
+                }
+            ], 
+            "image": "https://vn-test-11.slatic.net/p/2/thiet-bi-nhan-bluetooth-mz-301-mt02-trang-8013-2279185-569f5a650fd86986262f03df0d309fdd-catalog_233.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "101995061", 
+            "location": "Hồ Chí Minh", 
+            "name": "Thiết bị nhận BLUETOOTH BT-163 (Màu ngẫu nhiên)", 
+            "nid": "5819722", 
+            "originalPrice": "39000.00", 
+            "originalPriceShow": "39.000 ₫", 
+            "price": "20000.00", 
+            "priceShow": "20.000 ₫", 
+            "productUrl": "//www.lazada.vn/products/thiet-bi-nhan-bluetooth-bt-163-mau-ngau-nhien-i101995061-s102371295.html?search=1", 
+            "ratingScore": "3.2", 
+            "restrictedAge": 0, 
+            "review": "5", 
+            "sellerId": "100006644", 
+            "sellerName": "THE FASHION FOR MEN & WOMEN", 
+            "sku": "CO806ELAA3GQIYVNAMZ", 
+            "skuId": "102371295", 
+            "skus": [
+                {
+                    "id": "CO806ELAA3GQIYVNAMZ-6097791"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-test-11.slatic.net/p/2/thiet-bi-nhan-bluetooth-mz-301-mt02-trang-8013-2279185-569f5a650fd86986262f03df0d309fdd-gallery.jpg", 
+                    "productUrl": "//www.lazada.vn/products/thiet-bi-nhan-bluetooth-bt-163-mau-ngau-nhien-i101995061-s102371295.html?search=1", 
+                    "sku": "CO806ELAA3GQIYVNAMZ", 
+                    "skuId": "102371295"
+                }
+            ], 
+            "voucherId": "203201813806644"
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "266318031_VNAMZ-385894108", 
+                    "skuId": "385894108"
+                }
+            ], 
+            "brandId": "18094", 
+            "brandName": "OEM", 
+            "categories": [
+                4403, 
+                4564, 
+                5009, 
+                11412
+            ], 
+            "cheapest_sku": "266318031_VNAMZ-385894108", 
+            "clickTrace": "query:bluetooth;nid:266318031;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:266318031_VNAMZ;price:155000.00;client:desktop;supplier_id:1000075738;asc_category_id:11412;item_id:266318031;sku_id:385894108;shop_id:333555", 
+            "description": [
+                "Nếu bạn là người bận rộn, bạn thường xuyên cần phải nghe điện thoại lúc di chuyển, làm việc, lái xe,... thì sản phẩm tai nghe bluetoothV9 là sự lựa chọn lý tưởng dành cho bạn. Tai nghe có sử dụng công nghệ truyền tải không dây âm thanh chất lượng cao giúp tăng chất lượng âm thanh đàm thoại, đem lại tiện ích tối đa cho bạn. Thêm vào đó, với kiểu dáng gọn nhẹ và sắc màu quý phái, sản phẩm còn giúp mang lại vẻ sang trọng cho người dùng. Hãy trải nghiệm những tiện nghi vượt trội mà tai nghe bluetoothV9 mang lại.", 
+                "TÍNH NĂNG NỔI BẬT", 
+                "Thiết kế nhỏ gọn", 
+                "Sản phẩm tai nghe bluetoothV9 sở hữu thiết kế nhỏ gọn, nhẹ nhàng, vừa khít lòng tai, lớp đệm cao su mềm cho bạn cảm giác êm ái khi sử dụng lâu, hạn chế tạp âm từ bên ngoài giúp bạn nghe rõ ngay cả trong môi trường khá ồn. Sản phẩm với vành nhựa và đường cong hợp lý để bạn cố định lên tai một cách dễ dàng, rất thuận tiện khi sử dụng mà không lo bị rớt cũng như cho 2 tay được rảnh rỗi để làm việc nhà, lái xe, tập thể dục,... Ngoài ra, các nút nguồn được tích hợp trực tiếp để bạn dễ dàng điều chỉnh giúp làm tăng, giảm âm lượng, âm thanh đàm thoại, rất tiện dụng khi lái xe hay đang di chuyển.", 
+                "Âm thanh chất lượng", 
+                "Tai nghe bluetoothV9 cho âm thanh sống động, trong trẻo và không bị nhiễu bởi sản phẩm được trang bị công nghệ lọc gió thông minh WindSmart, hạn chế tối đa tiếng ồn của gió khi bạn lái xe, bạn có thể đàm thoại một cách thoải mái kể cả khi đang ở những khu vực đông người hay đang lái xe. Với công nghệ micro đôi AudioIQ2 được thiết kế để ngăn chặn tiếng ồn trong khi đàm thoại mà vẫn giữ lại âm thanh tự nhiên của giọng nói.", 
+                "Tính năng vượt trội", 
+                "Có tính năng bắt cuộc gọi bằng giọng nói. \"Yes\" là bắt máy,\"No\" là từ chối cuộc gọi. . Sản phẩm vượt trội hơn các loại tai nghe bluetooth cùng loại bởi các dịch vụ thoại và văn bản có thể truy cập trực tiếp từ tai nghe. VớiV9 , bạn có thể đọc email, tin nhắn, văn bản,… bằng các lệnh thoại đơn giản và nếu bạn muốn ghi lại một lời nhắc nhở cho chính mình, tai nghe cũng có thể gửi nó cho bạn như là một email âm thanh mà không cần thao tác với điện thoại vô cùng tiện lợi. Tai nghe cho phép bạn có thể nhận cuộc gọi từ 2 điện thoại cùng lúc để không bỏ lỡ bất kì cuộc gọi quan trọng nào.Tính năng InstantMeeting tiên tiến có thể tự động xác định cuộc gọi hội nghị và quay số chi tiết từ lịch đã lưu từ trước của bạn, nhắc nhở bạn ngay trước cuộc họp bắt đầu và kết nối bạn tới cuộc gọi hội nghị.", 
+                "Thời gian sử dụng dài", 
+                "Sử dụng công nghệ Bluetooth 4.0 EDR siêu tiết kiệm pin., tai nghe BluetoothV9 cho thời gian đàm thoại liên tục 6h và thời gian chờ lên đến 5 ngày để bạn yên tâm sử dụng mà không lo bị hết pin đột ngột như trước nữa. Sản phẩm sạc pin qua cổng sạc Micro USB rất tiện lợi."
+            ], 
+            "discount": "-38%", 
+            "icons": [
+                {
+                    "alias": "birthBadge", 
+                    "domClass": "birthBadge", 
+                    "font-size": 0, 
+                    "group": "1", 
+                    "order": -1, 
+                    "showType": "0", 
+                    "text": "", 
+                    "type": "img"
+                }
+            ], 
+            "image": "https://vn-test-11.slatic.net/p/1fac90c012a25fe8d9a4347e40a289b5.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "266318031", 
+            "location": "Hà Nội", 
+            "name": "Tai Nghe Nhét Tai Thể Thao Không Dây V9", 
+            "nid": "266318031", 
+            "originalPrice": "250000.00", 
+            "originalPriceShow": "250.000 ₫", 
+            "price": "155000.00", 
+            "priceShow": "155.000 ₫", 
+            "productUrl": "//www.lazada.vn/products/tai-nghe-nhet-tai-the-thao-khong-day-v9-i266318031-s385894108.html?search=1", 
+            "ratingScore": "0", 
+            "restrictedAge": 0, 
+            "review": "0", 
+            "sellerId": "1000075738", 
+            "sellerName": "PhuKien_TrungBinh", 
+            "sku": "266318031_VNAMZ", 
+            "skuId": "385894108", 
+            "skus": [
+                {
+                    "id": "266318031_VNAMZ-385894108"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-test-11.slatic.net/p/1fac90c012a25fe8d9a4347e40a289b5.jpg", 
+                    "productUrl": "//www.lazada.vn/products/tai-nghe-nhet-tai-the-thao-khong-day-v9-i266318031-s385894108.html?search=1", 
+                    "sku": "266318031_VNAMZ", 
+                    "skuId": "385894108"
+                }
+            ], 
+            "voucherId": ""
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "CO806ELAA10FPBVNAMZ-1404493", 
+                    "skuId": "1263220"
+                }
+            ], 
+            "brandId": "18094", 
+            "brandName": "OEM", 
+            "categories": [
+                4403, 
+                4564, 
+                11421, 
+                11433, 
+                11434
+            ], 
+            "cheapest_sku": "CO806ELAA10FPBVNAMZ-1404493", 
+            "clickTrace": "query:bluetooth;nid:1699967;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:CO806ELAA10FPBVNAMZ;price:25000.00;client:desktop;supplier_id:15269;asc_category_id:11434;item_id:1008081;sku_id:1263220;shop_id:237", 
+            "description": [
+                "Thiết kế nhỏ gọn", 
+                "Nguồn cấp : 5V qua cổng USB", 
+                "Ngõ ra âm thanh Stereo với jack 3.5mm"
+            ], 
+            "discount": "-36%", 
+            "icons": [
+                {
+                    "alias": "birthBadge", 
+                    "domClass": "birthBadge", 
+                    "font-size": 0, 
+                    "group": "1", 
+                    "order": -1, 
+                    "showType": "0", 
+                    "text": "", 
+                    "type": "img"
+                }
+            ], 
+            "image": "https://vn-test-11.slatic.net/p/2/bo-usb-bluetooth-cho-dan-am-thanh-dongle-mz-301-den-1616-7699961-0f269e976a9ad2b6bdc3c8ded166a297-catalog_233.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "1008081", 
+            "location": "Hồ Chí Minh", 
+            "name": "Bộ USB Bluetooth cho dàn âm thanh  BT-163 (Đen)", 
+            "nid": "1699967", 
+            "originalPrice": "39000.00", 
+            "originalPriceShow": "39.000 ₫", 
+            "price": "25000.00", 
+            "priceShow": "25.000 ₫", 
+            "productUrl": "//www.lazada.vn/products/bo-usb-bluetooth-cho-dan-am-thanh-bt-163-den-i1008081-s1263220.html?search=1", 
+            "ratingScore": "3.22222", 
+            "restrictedAge": 0, 
+            "review": "9", 
+            "sellerId": "15269", 
+            "sellerName": "Mua tốt", 
+            "sku": "CO806ELAA10FPBVNAMZ", 
+            "skuId": "1263220", 
+            "skus": [
+                {
+                    "id": "CO806ELAA10FPBVNAMZ-1404493"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-test-11.slatic.net/p/2/bo-usb-bluetooth-cho-dan-am-thanh-dongle-mz-301-den-1616-7699961-0f269e976a9ad2b6bdc3c8ded166a297-gallery.jpg", 
+                    "productUrl": "//www.lazada.vn/products/bo-usb-bluetooth-cho-dan-am-thanh-bt-163-den-i1008081-s1263220.html?search=1", 
+                    "sku": "CO806ELAA10FPBVNAMZ", 
+                    "skuId": "1263220"
+                }
+            ], 
+            "voucherId": "203208613715269\u001d203208613715269"
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "251152920_VNAMZ-332814604", 
+                    "skuId": "332814604"
+                }
+            ], 
+            "brandId": "65074", 
+            "brandName": "No Brand", 
+            "categories": [
+                4403, 
+                4564, 
+                11421, 
+                11433, 
+                11434
+            ], 
+            "cheapest_sku": "251152920_VNAMZ-332814604", 
+            "clickTrace": "query:bluetooth;nid:251152920;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:251152920_VNAMZ;price:35000.00;client:desktop;supplier_id:100011588;asc_category_id:11434;item_id:251152920;sku_id:332814604;shop_id:1165", 
+            "description": [
+                "Bộ USB Bluetooth kết nối Loa Thường thành loa không dây (Đen) + Jack loa 3.5 sang 2 đầu AV "
+            ], 
+            "discount": "-42%", 
+            "icons": [
+                {
+                    "alias": "birthBadge", 
+                    "domClass": "birthBadge", 
+                    "font-size": 0, 
+                    "group": "1", 
+                    "order": -1, 
+                    "showType": "0", 
+                    "text": "", 
+                    "type": "img"
+                }, 
+                {
+                    "alias": "FsAlias", 
+                    "domClass": "freeShipping", 
+                    "font-size": 0, 
+                    "group": "2", 
+                    "order": 0, 
+                    "showType": "0", 
+                    "text": "FreeShipping", 
+                    "type": "img"
+                }
+            ], 
+            "image": "https://vn-live-01.slatic.net/original/b53215650b8864173ba72de52ed092d4.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "251152920", 
+            "location": "Hồ Chí Minh", 
+            "name": "Bộ USB Bluetooth kết nối Loa Thường thành loa không dây (Đen) + Jack loa 3.5 sang 2 đầu AV ", 
+            "nid": "251152920", 
+            "originalPrice": "60000.00", 
+            "originalPriceShow": "60.000 ₫", 
+            "price": "35000.00", 
+            "priceShow": "35.000 ₫", 
+            "productUrl": "//www.lazada.vn/products/bo-usb-bluetooth-ket-noi-loa-thuong-thanh-loa-khong-day-den-jack-loa-35-sang-2-dau-av-i251152920-s332814604.html?search=1", 
+            "ratingScore": "4.83333", 
+            "restrictedAge": 0, 
+            "review": "12", 
+            "sellerId": "100011588", 
+            "sellerName": "3H COMPUTER", 
+            "sku": "251152920_VNAMZ", 
+            "skuId": "332814604", 
+            "skus": [
+                {
+                    "id": "251152920_VNAMZ-332814604"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-live-01.slatic.net/original/b53215650b8864173ba72de52ed092d4.jpg", 
+                    "productUrl": "//www.lazada.vn/products/bo-usb-bluetooth-ket-noi-loa-thuong-thanh-loa-khong-day-den-jack-loa-35-sang-2-dau-av-i251152920-s332814604.html?search=1", 
+                    "sku": "251152920_VNAMZ", 
+                    "skuId": "332814604"
+                }
+            ], 
+            "voucherId": "203125409411588"
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "OE680ELAAFBPLBVNAMZ-31846199", 
+                    "skuId": "155016921"
+                }
+            ], 
+            "brandId": "18094", 
+            "brandName": "OEM", 
+            "categories": [
+                4403, 
+                4564, 
+                5009, 
+                11412
+            ], 
+            "cheapest_sku": "OE680ELAAFBPLBVNAMZ-31846199", 
+            "clickTrace": "query:bluetooth;nid:25740623;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:OE680ELAAFBPLBVNAMZ;price:139000.00;client:desktop;supplier_id:100026370;asc_category_id:11412;item_id:148108881;sku_id:155016921;shop_id:5757", 
+            "description": [
+                "Hiệu suất âm thanh không dây mạnh mẽ, không bị bóp méo, có khả năng điều chỉnh bass sâu hơn hay treble cao hơn.", 
+                "Kiểu dáng Thể thao, thoải mái, thích hợp và an toàn với các hoạt động tập luyện.", 
+                "Kết nối với Tone Ultra là một cách làm nhanh chóng và đơn giản, phù hợp với tất cả các dòng điện thoại smart phone như Iphone, Samsung, Sony Apple​"
+            ], 
+            "discount": "-50%", 
+            "icons": [
+                {
+                    "alias": "birthBadge", 
+                    "domClass": "birthBadge", 
+                    "font-size": 0, 
+                    "group": "1", 
+                    "order": -1, 
+                    "showType": "0", 
+                    "text": "", 
+                    "type": "img"
+                }, 
+                {
+                    "alias": "FsAlias", 
+                    "domClass": "freeShipping", 
+                    "font-size": 0, 
+                    "group": "2", 
+                    "order": 0, 
+                    "showType": "0", 
+                    "text": "FreeShipping", 
+                    "type": "img"
+                }
+            ], 
+            "image": "https://vn-test-11.slatic.net/p/bad3a0a1e501a11789dd1db97de8923e.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "148108881", 
+            "location": "Hà Nội", 
+            "name": "Tay nghe dien thoai, Bán tai nghe điện thoại - Bluetooth Stereo Headset TONE ULTRA S8, tai nghe thể thao siêu bass, mới nhấttt 2018 Mẫu 925 - Bh uy tín 1 đổi 1 bởi TECH-ONE", 
+            "nid": "25740623", 
+            "originalPrice": "276064.00", 
+            "originalPriceShow": "276.064 ₫", 
+            "price": "139000.00", 
+            "priceShow": "139.000 ₫", 
+            "productUrl": "//www.lazada.vn/products/tay-nghe-dien-thoai-ban-tai-nghe-dien-thoai-bluetooth-stereo-headset-tone-ultra-s8-tai-nghe-the-thao-sieu-bass-moi-nhattt-2018-mau-925-bh-uy-tin-1-doi-1-boi-tech-one-i148108881-s155016921.html?search=1", 
+            "ratingScore": "4.21087", 
+            "restrictedAge": 0, 
+            "review": "460", 
+            "sellerId": "100026370", 
+            "sellerName": "HDTech", 
+            "sku": "OE680ELAAFBPLBVNAMZ", 
+            "skuId": "155016921", 
+            "skus": [
+                {
+                    "id": "OE680ELAAFBPLBVNAMZ-31846199"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-test-11.slatic.net/p/bad3a0a1e501a11789dd1db97de8923e.jpg", 
+                    "productUrl": "//www.lazada.vn/products/tay-nghe-dien-thoai-ban-tai-nghe-dien-thoai-bluetooth-stereo-headset-tone-ultra-s8-tai-nghe-the-thao-sieu-bass-moi-nhattt-2018-mau-925-bh-uy-tin-1-doi-1-boi-tech-one-i148108881-s155016921.html?search=1", 
+                    "sku": "OE680ELAAFBPLBVNAMZ", 
+                    "skuId": "155016921"
+                }
+            ], 
+            "voucherId": "203103200926370\u001d203110800826370\u001d203122407226370\u001d203123007426370\u001d203128806526370\u001d203129005826370"
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "246011575_VNAMZ-315804604", 
+                    "skuId": "315804604"
+                }
+            ], 
+            "brandId": "18094", 
+            "brandName": "OEM", 
+            "categories": [
+                4403, 
+                4564, 
+                11421, 
+                11433, 
+                11434
+            ], 
+            "cheapest_sku": "246011575_VNAMZ-315804604", 
+            "clickTrace": "query:bluetooth;nid:246011575;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:246011575_VNAMZ;price:32800.00;client:desktop;supplier_id:916;asc_category_id:11434;item_id:246011575;sku_id:315804604;shop_id:206", 
+            "description": [
+                "- Tạo bluetooth cho loa đài, tai nghe cd trên oto- biến tai nghe thường thành tai nghe blutooth- Sử dụng bluetooth 4.1 cho kết nối siêu mạnh và ổn định chất lượng cao- Sử dụng cực kỳ đơn giản cắm là chạy"
+            ], 
+            "discount": "-50%", 
+            "icons": [
+                {
+                    "alias": "birthBadge", 
+                    "domClass": "birthBadge", 
+                    "font-size": 0, 
+                    "group": "1", 
+                    "order": -1, 
+                    "showType": "0", 
+                    "text": "", 
+                    "type": "img"
+                }
+            ], 
+            "image": "https://vn-test-11.slatic.net/p/407922ff813751d2d26b0687a3882c5b.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "246011575", 
+            "location": "Hà Nội", 
+            "name": "Wireless Adapter tạo kết nối âm thanh 4.1 rảnh tay", 
+            "nid": "246011575", 
+            "originalPrice": "65000.00", 
+            "originalPriceShow": "65.000 ₫", 
+            "price": "32800.00", 
+            "priceShow": "32.800 ₫", 
+            "productUrl": "//www.lazada.vn/products/wireless-adapter-tao-ket-noi-am-thanh-41-ranh-tay-i246011575-s315804604.html?search=1", 
+            "ratingScore": "4.47059", 
+            "restrictedAge": 0, 
+            "review": "17", 
+            "sellerId": "916", 
+            "sellerName": "Do Choi PC (Hà Nội)", 
+            "sku": "246011575_VNAMZ", 
+            "skuId": "315804604", 
+            "skus": [
+                {
+                    "id": "246011575_VNAMZ-315804604"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-test-11.slatic.net/p/407922ff813751d2d26b0687a3882c5b.jpg", 
+                    "productUrl": "//www.lazada.vn/products/wireless-adapter-tao-ket-noi-am-thanh-41-ranh-tay-i246011575-s315804604.html?search=1", 
+                    "sku": "246011575_VNAMZ", 
+                    "skuId": "315804604"
+                }
+            ], 
+            "voucherId": "203102206000916\u001d203102604900916\u001d203107005700916\u001d203110804700916\u001d203111003700916\u001d203115005500916"
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "248579962_VNAMZ-326211071", 
+                    "skuId": "326211071"
+                }
+            ], 
+            "brandId": "38262", 
+            "brandName": "ANCOM GL", 
+            "categories": [
+                4403, 
+                4564, 
+                11421, 
+                11433, 
+                11434
+            ], 
+            "cheapest_sku": "248579962_VNAMZ-326211071", 
+            "clickTrace": "query:bluetooth;nid:248579962;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:248579962_VNAMZ;price:19578.00;client:desktop;supplier_id:530;asc_category_id:11434;item_id:248579962;sku_id:326211071;shop_id:179", 
+            "description": [
+                "Thiết bị nhận Bluetooth có thiết kế nhỏ gọn, rất tiện để bạn có thể bố trí dàn âm thanh theo cách phù hợp và đẹp mắt.", 
+                "Ngõ ra âm thanh 3.5 mm, với chất lượng stereo trung thực không bị suy hao so với bản gốc từ thiết bị phát.", 
+                "Thiết bị hoạt động trên chuẩn Bluetooth 2.0, tương thích với các điện thoại hỗ và các thiết bị phát kỹ thuật số khác có hỗ trợ bluetooth.", 
+                "Thông tin chi tiết", 
+                "+ Màu sắc: Màu đen", 
+                "+ Tính năng: Nhận tín hiệu âm thanh Bluetooth (không dây) cho Loa, Amply", 
+                "+ Khoảng cách họat động: 10-15 m", 
+                "+ Tương thích: Smartphone, laptop, máy tính bảng, Iphone, ipad, ipod, các thiết bị có kết nối Bluetooth khác", 
+                "+ Bluetooth v2.0 + EDR", 
+                "+ Tần số: 44.1 khz và 48 khz", 
+                "+ Ngõ ra âm thanh Stereo với jack 3.5mm", 
+                "+ Nguồn cấp : 5V qua cổng USB"
+            ], 
+            "discount": "-47%", 
+            "icons": [
+                {
+                    "alias": "birthBadge", 
+                    "domClass": "birthBadge", 
+                    "font-size": 0, 
+                    "group": "1", 
+                    "order": -1, 
+                    "showType": "0", 
+                    "text": "", 
+                    "type": "img"
+                }, 
+                {
+                    "alias": "FsAlias", 
+                    "domClass": "freeShipping", 
+                    "font-size": 0, 
+                    "group": "2", 
+                    "order": 0, 
+                    "showType": "0", 
+                    "text": "FreeShipping", 
+                    "type": "img"
+                }
+            ], 
+            "image": "https://vn-live-01.slatic.net/original/5f8195d331d88b4c90ede5645283c4b1.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "248579962", 
+            "location": "Hồ Chí Minh", 
+            "name": "Thiết bị nhận BLUETOOTH BT-163 (Trắng)", 
+            "nid": "248579962", 
+            "originalPrice": "37000.00", 
+            "originalPriceShow": "37.000 ₫", 
+            "price": "19578.00", 
+            "priceShow": "19.578 ₫", 
+            "productUrl": "//www.lazada.vn/products/thiet-bi-nhan-bluetooth-bt-163-trang-i248579962-s326211071.html?search=1", 
+            "ratingScore": "3.76923", 
+            "restrictedAge": 0, 
+            "review": "13", 
+            "sellerId": "530", 
+            "sellerName": "Laptop Ancom (Tp.HCM)", 
+            "sku": "248579962_VNAMZ", 
+            "skuId": "326211071", 
+            "skus": [
+                {
+                    "id": "248579962_VNAMZ-326211071"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-live-01.slatic.net/original/5f8195d331d88b4c90ede5645283c4b1.jpg", 
+                    "productUrl": "//www.lazada.vn/products/thiet-bi-nhan-bluetooth-bt-163-trang-i248579962-s326211071.html?search=1", 
+                    "sku": "248579962_VNAMZ", 
+                    "skuId": "326211071"
+                }
+            ], 
+            "voucherId": "203090602300530"
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "253842437_VNAMZ-342157075", 
+                    "skuId": "342157075"
+                }
+            ], 
+            "brandId": "65074", 
+            "brandName": "No Brand", 
+            "categories": [
+                4403, 
+                4564, 
+                11421, 
+                11433, 
+                11434
+            ], 
+            "cheapest_sku": "253842437_VNAMZ-342157075", 
+            "clickTrace": "query:bluetooth;nid:253842437;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:253842437_VNAMZ;price:55000.00;client:desktop;supplier_id:100011588;asc_category_id:11434;item_id:253842437;sku_id:342157075;shop_id:1165", 
+            "description": [
+                "Usb bluetooth nâng cấp chỉ cần cắm vào cổng Usb là kết nối không cần cắm thêm dây nào.", 
+                "Âm thanh truyền tải to và rõ.", 
+                "Âm thanh trung thực", 
+                "Kết nối Bluetooth (phạm vi 10m)", 
+                "Tạo kết nối bluetooth cho các thiết bị âm thanh không có cổng USB như ampli; loa..", 
+                "Màu adapter có thể thay đổi theo đợt hàng."
+            ], 
+            "discount": "-45%", 
+            "icons": [
+                {
+                    "alias": "birthBadge", 
+                    "domClass": "birthBadge", 
+                    "font-size": 0, 
+                    "group": "1", 
+                    "order": -1, 
+                    "showType": "0", 
+                    "text": "", 
+                    "type": "img"
+                }, 
+                {
+                    "alias": "FsAlias", 
+                    "domClass": "freeShipping", 
+                    "font-size": 0, 
+                    "group": "2", 
+                    "order": 0, 
+                    "showType": "0", 
+                    "text": "FreeShipping", 
+                    "type": "img"
+                }
+            ], 
+            "image": "https://vn-test-11.slatic.net/p/f1dc1ae745bb161aa4e11cc56b605ef5.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "253842437", 
+            "location": "Hồ Chí Minh", 
+            "name": "Bộ USB Bluetooth Wireless DMZMusic Receiver tạo kết nối bluetooth cho amply và loa 3H001", 
+            "nid": "253842437", 
+            "originalPrice": "100000.00", 
+            "originalPriceShow": "100.000 ₫", 
+            "price": "55000.00", 
+            "priceShow": "55.000 ₫", 
+            "productUrl": "//www.lazada.vn/products/bo-usb-bluetooth-wireless-dmzmusic-receiver-tao-ket-noi-bluetooth-cho-amply-va-loa-3h001-i253842437-s342157075.html?search=1", 
+            "ratingScore": "4.76471", 
+            "restrictedAge": 0, 
+            "review": "17", 
+            "sellerId": "100011588", 
+            "sellerName": "3H COMPUTER", 
+            "sku": "253842437_VNAMZ", 
+            "skuId": "342157075", 
+            "skus": [
+                {
+                    "id": "253842437_VNAMZ-342157075"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-test-11.slatic.net/p/f1dc1ae745bb161aa4e11cc56b605ef5.jpg", 
+                    "productUrl": "//www.lazada.vn/products/bo-usb-bluetooth-wireless-dmzmusic-receiver-tao-ket-noi-bluetooth-cho-amply-va-loa-3h001-i253842437-s342157075.html?search=1", 
+                    "sku": "253842437_VNAMZ", 
+                    "skuId": "342157075"
+                }
+            ], 
+            "voucherId": "203125409411588"
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "246419809_VNAMZ-316563778", 
+                    "skuId": "316563778"
+                }
+            ], 
+            "brandId": "18094", 
+            "brandName": "OEM", 
+            "categories": [
+                4403, 
+                4564, 
+                11421, 
+                11433, 
+                11434
+            ], 
+            "cheapest_sku": "246419809_VNAMZ-316563778", 
+            "clickTrace": "query:bluetooth;nid:246419809;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:246419809_VNAMZ;price:43000.00;client:desktop;supplier_id:15837;asc_category_id:11434;item_id:246419809;sku_id:316563778;shop_id:2528", 
+            "description": [
+                "Tính năng sản phẩm:Biến các thiết bị audio có dây thành không dây ví dụ: tai nghe, máy nghe nhạc, loa.....Tự động tắt khi không sử dụngThông báo kết nối, sắp hết pinHỗ trợ kết nối 2 sản phẩmĐiều khiển máy ảnhTua bài, trả lời cuộc gọi, kết thúc cuộc gọiTự động kết nối lạiThông số kỹ thuật:Phiên Bản Bluetooth: V4.1", 
+                "Dải tần số: 2.4 GHz", 
+                "Sử dụng Li-Ion Battery: nạp trong 30 min, thời gian sử dụng4hrsBộ sản phẩm bao gồm:• 1 x Bluetooth Receiver", 
+                "• 1x jack audio 3.5mm", 
+                "• 1 x cáp sạc microđặc điểm kỹ thuật:         loại         Bluetooth Âm Thanh Receiver             mô hình         BT2             chất liệu         nhựa             số lượng         1 bộ             màu         đen             Bluetooth Phiên Bản         V4.1             được hỗ trợ bởi giao thức Bluetooth         A2DP và AVRCP, AVDTP, HFP, HSP             Khoảng Cách hợp lệ         mét             Dải tần số         2.4 GHz             pin         được xây dựng trong Li-Ion battery             Giờ làm việc         4 Giờ             Thời Gian sạc         30 min             đầu ra         3.5 mét audio jack      "
+            ], 
+            "discount": "-48%", 
+            "icons": [], 
+            "image": "https://vn-test-11.slatic.net/original/11d3ca8a01e83f3139f7e833ab38e7bd.jpg_80x80q80.jpg_.webp", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "246419809", 
+            "location": "Hồ Chí Minh", 
+            "name": "Đầu thu bluetooth receiver tạo kết nối âm thanh 4.1 rảnh tay", 
+            "nid": "246419809", 
+            "originalPrice": "83000.00", 
+            "originalPriceShow": "83.000 ₫", 
+            "price": "43000.00", 
+            "priceShow": "43.000 ₫", 
+            "productUrl": "//www.lazada.vn/products/dau-thu-bluetooth-receiver-tao-ket-noi-am-thanh-41-ranh-tay-i246419809-s316563778.html?search=1", 
+            "ratingScore": "4.61818", 
+            "restrictedAge": 0, 
+            "review": "55", 
+            "sellerId": "15837", 
+            "sellerName": "tien panda", 
+            "sku": "246419809_VNAMZ", 
+            "skuId": "316563778", 
+            "skus": [
+                {
+                    "id": "246419809_VNAMZ-316563778"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-test-11.slatic.net/original/11d3ca8a01e83f3139f7e833ab38e7bd.jpg_80x80q80.jpg_.webp", 
+                    "productUrl": "//www.lazada.vn/products/dau-thu-bluetooth-receiver-tao-ket-noi-am-thanh-41-ranh-tay-i246419809-s316563778.html?search=1", 
+                    "sku": "246419809_VNAMZ", 
+                    "skuId": "316563778"
+                }
+            ], 
+            "voucherId": ""
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "246692294_VNAMZ-317597972", 
+                    "skuId": "317597972"
+                }
+            ], 
+            "brandId": "65074", 
+            "brandName": "No Brand", 
+            "categories": [
+                4403, 
+                4564, 
+                5009, 
+                11412
+            ], 
+            "cheapest_sku": "246692294_VNAMZ-317597972", 
+            "clickTrace": "query:bluetooth;nid:246692294;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:246692294_VNAMZ;price:39000.00;client:desktop;supplier_id:100141157;asc_category_id:11412;item_id:246692294;sku_id:317597972;shop_id:138263", 
+            "description": [
+                "Giới thiệu sản phẩm Tai nghe bluetooth hình hạt đậu Thông qua công nghệ Bluetooth V4.0 mới nhất", 
+                "Tiêu thụ năng lượng thấp với chế độ chờ siêu dài và thời gian nói chuyện", 
+                "Hỗ trợ giọng nói nhắc và báo cáo số khi gọi điện thoại đang đến", 
+                "Với phong cách trong tai , nó rất thuận tiện khi lái xe và chơi thể thao", 
+                "Trọng lượng nhẹ và di động, dễ dàng mang theo", 
+                "Thông qua công nghệ Bluetooth V4.0 mới nhất", 
+                "Tiêu thụ năng lượng thấp với chế độ chờ siêu dài và thời gian nói chuyện", 
+                "Hỗ trợ giọng nói nhắc và báo cáo số khi gọi điện thoại đang đến"
+            ], 
+            "discount": "-34%", 
+            "icons": [], 
+            "image": "https://vn-test-11.slatic.net/p/c94eb206a456045f9876e36c65dc4a28.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "246692294", 
+            "location": "Hồ Chí Minh", 
+            "name": "Tai nghe Bluetooth mini S530 Bluetooth 4.0", 
+            "nid": "246692294", 
+            "originalPrice": "59000.00", 
+            "originalPriceShow": "59.000 ₫", 
+            "price": "39000.00", 
+            "priceShow": "39.000 ₫", 
+            "productUrl": "//www.lazada.vn/products/tai-nghe-bluetooth-mini-s530-bluetooth-40-i246692294-s317597972.html?search=1", 
+            "ratingScore": "4.64706", 
+            "restrictedAge": 0, 
+            "review": "51", 
+            "sellerId": "100141157", 
+            "sellerName": "Lê Hằng Phụ Kiện", 
+            "sku": "246692294_VNAMZ", 
+            "skuId": "317597972", 
+            "skus": [
+                {
+                    "id": "246692294_VNAMZ-317597972"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-test-11.slatic.net/p/c94eb206a456045f9876e36c65dc4a28.jpg", 
+                    "productUrl": "//www.lazada.vn/products/tai-nghe-bluetooth-mini-s530-bluetooth-40-i246692294-s317597972.html?search=1", 
+                    "sku": "246692294_VNAMZ", 
+                    "skuId": "317597972"
+                }
+            ], 
+            "voucherId": "203150403241157\u001d202446807141157\u001d202708406941157\u001d203115001841157\u001d203154002541157"
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "219021718_VNAMZ-274938719", 
+                    "skuId": "274938719"
+                }
+            ], 
+            "brandId": "18094", 
+            "brandName": "OEM", 
+            "categories": [
+                4403, 
+                4564, 
+                11421, 
+                11433, 
+                11434
+            ], 
+            "cheapest_sku": "219021718_VNAMZ-274938719", 
+            "clickTrace": "query:bluetooth;nid:219021718;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:219021718_VNAMZ;price:44000.00;client:desktop;supplier_id:100011588;asc_category_id:11434;item_id:219021718;sku_id:274938719;shop_id:1165", 
+            "description": [
+                "Chuyên tạo kết nối bluetooth cho xe hơi, amply, loa..", 
+                "Thiết kế nhỏ gọn , tiện dụng.", 
+                "Kết nối Ipad; iphone; tablet; laptop", 
+                "Có Mic trên thân usb có thể đàm thoại.", 
+                "Usb sử dụng pin."
+            ], 
+            "discount": "-48%", 
+            "icons": [
+                {
+                    "alias": "birthBadge", 
+                    "domClass": "birthBadge", 
+                    "font-size": 0, 
+                    "group": "1", 
+                    "order": -1, 
+                    "showType": "0", 
+                    "text": "", 
+                    "type": "img"
+                }, 
+                {
+                    "alias": "FsAlias", 
+                    "domClass": "freeShipping", 
+                    "font-size": 0, 
+                    "group": "2", 
+                    "order": 0, 
+                    "showType": "0", 
+                    "text": "FreeShipping", 
+                    "type": "img"
+                }
+            ], 
+            "image": "https://vn-live-01.slatic.net/original/8bb0a221612efee0677b9de3eb4936d8.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "219021718", 
+            "location": "Hồ Chí Minh", 
+            "name": "USB tạo Bluetooth cho dàn âm thanh xe hơi amply loa Car Bluetooth", 
+            "nid": "219021718", 
+            "originalPrice": "85000.00", 
+            "originalPriceShow": "85.000 ₫", 
+            "price": "44000.00", 
+            "priceShow": "44.000 ₫", 
+            "productUrl": "//www.lazada.vn/products/usb-tao-bluetooth-cho-dan-am-thanh-xe-hoi-amply-loa-car-bluetooth-i219021718-s274938719.html?search=1", 
+            "ratingScore": "4", 
+            "restrictedAge": 0, 
+            "review": "10", 
+            "sellerId": "100011588", 
+            "sellerName": "3H COMPUTER", 
+            "sku": "219021718_VNAMZ", 
+            "skuId": "274938719", 
+            "skus": [
+                {
+                    "id": "219021718_VNAMZ-274938719"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-live-01.slatic.net/original/8bb0a221612efee0677b9de3eb4936d8.jpg", 
+                    "productUrl": "//www.lazada.vn/products/usb-tao-bluetooth-cho-dan-am-thanh-xe-hoi-amply-loa-car-bluetooth-i219021718-s274938719.html?search=1", 
+                    "sku": "219021718_VNAMZ", 
+                    "skuId": "274938719"
+                }
+            ], 
+            "voucherId": "203125409411588"
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "215706352_VNAMZ-281802240", 
+                    "skuId": "281802240"
+                }
+            ], 
+            "brandId": "18094", 
+            "brandName": "OEM", 
+            "categories": [
+                4403, 
+                4564, 
+                5009, 
+                11412
+            ], 
+            "cheapest_sku": "215706352_VNAMZ-281802240", 
+            "clickTrace": "query:bluetooth;nid:215706352;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:215706352_VNAMZ;price:95000.00;client:desktop;supplier_id:100129071;asc_category_id:11412;item_id:215706352;sku_id:281802240;shop_id:10723", 
+            "description": [
+                "Tai nghe bluetooth P47 có thể sử dụng bluetooth và cũng có thể dùng trực tiếp dây nối vào thiết bị- Chất lượng âm thanh tuyệt hảo, siêu bas. Âm thanh trung thực, sống động, nhiều âm Bass, phù hợp với những bản nhạc sôi động và cá tính đặc biệt với kết nối không dây bằng bluetooth với các thiết bị như điện thoại, laptop tiện lợi, gọn nhẹ và sự kết hợp giữ- Tai nghe có loa - Kết nối không dây với các thiết bị Bluetooth. ngoài.- Tương thích với hầu hết điện thoại Smatphone và Laptop, máy tính bàn, máy nghe nhạc và tất cả các thiết bị có hỗ trợ bluetooth stereo audio.- Khoảng cách bắt xa lên đến 10m.- Sử dụng như một tai nghe điện thoại với các chức năng nghe gọi.- Hỗ trợ thẻ nhớ TF card : 128 MB đến 32 GB - Nghe đài FM với âm thanh radio high-quality stereo.- Chuẩn Bluetooth A2DP cho chất lượng âm thanh stereo tương đương với tai nghe có dây.- Bộ phụ kiện đi kèm như dây sạc để sạc cho thiết bị, dây kết nối dài chuẩn 3.5mm dùng cho mọi điện thoại và laptop- Sạc thông qua USB, pin sạc, thuận tiện và thiết thực;- Thời gian Playing lên đến 6 giờ, và tiếp tục thời gian thoại lên đến 5-6 giờ, thời gian chờ lên đến 150 giờ;- Quý Khách Lưu Ý \"Shop Giao Màu Ngẫu Nhiên\""
+            ], 
+            "discount": "-42%", 
+            "icons": [
+                {
+                    "alias": "birthBadge", 
+                    "domClass": "birthBadge", 
+                    "font-size": 0, 
+                    "group": "1", 
+                    "order": -1, 
+                    "showType": "0", 
+                    "text": "", 
+                    "type": "img"
+                }
+            ], 
+            "image": "https://vn-live-01.slatic.net/original/692e9283892f399645e4fa98c72616e1.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "215706352", 
+            "location": "Việt Nam", 
+            "name": "(XẢ KHO 3 NGÀY) Tai nghe bluetooth P47 có khe cắm thẻ nhớ - Âm Thanh Đỉnh Cao", 
+            "nid": "215706352", 
+            "originalPrice": "165000.00", 
+            "originalPriceShow": "165.000 ₫", 
+            "price": "95000.00", 
+            "priceShow": "95.000 ₫", 
+            "productUrl": "//www.lazada.vn/products/xa-kho-3-ngay-tai-nghe-bluetooth-p47-co-khe-cam-the-nho-am-thanh-dinh-cao-i215706352-s281802240.html?search=1", 
+            "ratingScore": "4.48976", 
+            "restrictedAge": 0, 
+            "review": "586", 
+            "sellerId": "100129071", 
+            "sellerName": "shopnew365 store", 
+            "sku": "215706352_VNAMZ", 
+            "skuId": "281802240", 
+            "skus": [
+                {
+                    "id": "215706352_VNAMZ-281802240"
+                }, 
+                {
+                    "id": "215706352_VNAMZ-281802241"
+                }, 
+                {
+                    "id": "215706352_VNAMZ-281802242"
+                }, 
+                {
+                    "id": "215706352_VNAMZ-281802243"
+                }, 
+                {
+                    "id": "215706352_VNAMZ-270265635"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-live-01.slatic.net/original/692e9283892f399645e4fa98c72616e1.jpg", 
+                    "productUrl": "//www.lazada.vn/products/xa-kho-3-ngay-tai-nghe-bluetooth-p47-co-khe-cam-the-nho-am-thanh-dinh-cao-i215706352-s281802240.html?search=1", 
+                    "sku": "215706352_VNAMZ", 
+                    "skuId": "281802240"
+                }, 
+                {
+                    "image": "https://vn-live-01.slatic.net/original/5cab6b7bdba32fcb31bf52c6d400be90.jpg", 
+                    "productUrl": "//www.lazada.vn/products/xa-kho-3-ngay-tai-nghe-bluetooth-p47-co-khe-cam-the-nho-am-thanh-dinh-cao-i215706352-s270265635.html?search=1", 
+                    "sku": "215706352_VNAMZ", 
+                    "skuId": "270265635"
+                }
+            ], 
+            "voucherId": "203176004829071"
+        }, 
+        {
+            "addToCartSkus": [
+                {
+                    "count": 0, 
+                    "sku": "1571506_VNAMZ-322920306", 
+                    "skuId": "322920306"
+                }
+            ], 
+            "brandId": "3760", 
+            "brandName": "BLUETOOTH", 
+            "categories": [
+                4403, 
+                4564, 
+                11421, 
+                11433, 
+                11434
+            ], 
+            "cheapest_sku": "1571506_VNAMZ-322920306", 
+            "clickTrace": "query:bluetooth;nid:2181953;src:LazadaMainSrp;rn:f694421cc7bb7d0c2acc75bf84fe35ca;region:vn;sku:1571506_VNAMZ;price:19889.00;client:desktop;supplier_id:530;asc_category_id:11434;item_id:1571506;sku_id:322920306;shop_id:179", 
+            "description": [
+                "Có thể kết nối trực tiếp đến dàn âm thanh qua cổng tiêu chuẩn 3.5mm line-out", 
+                "Chất lượng âm thanh cao mà không cần đến kết nối dây lỉnh kỉnh.", 
+                "Có thể được ghép nối với loa di động mini hoặc loa di động cỡ lớn để hát karaoke"
+            ], 
+            "discount": "-43%", 
+            "icons": [
+                {
+                    "alias": "birthBadge", 
+                    "domClass": "birthBadge", 
+                    "font-size": 0, 
+                    "group": "1", 
+                    "order": -1, 
+                    "showType": "0", 
+                    "text": "", 
+                    "type": "img"
+                }, 
+                {
+                    "alias": "FsAlias", 
+                    "domClass": "freeShipping", 
+                    "font-size": 0, 
+                    "group": "2", 
+                    "order": 0, 
+                    "showType": "0", 
+                    "text": "FreeShipping", 
+                    "type": "img"
+                }
+            ], 
+            "image": "https://vn-live-01.slatic.net/original/f63051a396edc39bcaa754ee34162700.jpg", 
+            "inStock": true, 
+            "installment": "", 
+            "itemId": "1571506", 
+            "location": "Hồ Chí Minh", 
+            "name": "USB Bluetooth Music Receiver (Đen)", 
+            "nid": "2181953", 
+            "originalPrice": "35000.00", 
+            "originalPriceShow": "35.000 ₫", 
+            "price": "19889.00", 
+            "priceShow": "19.889 ₫", 
+            "productUrl": "//www.lazada.vn/products/usb-bluetooth-music-receiver-den-i1571506-s322920306.html?search=1", 
+            "ratingScore": "4.51562", 
+            "restrictedAge": 0, 
+            "review": "64", 
+            "sellerId": "530", 
+            "sellerName": "Laptop Ancom (Tp.HCM)", 
+            "sku": "1571506_VNAMZ", 
+            "skuId": "322920306", 
+            "skus": [
+                {
+                    "id": "1571506_VNAMZ-322920306"
+                }
+            ], 
+            "tItemType": "nt_product", 
+            "thumbs": [
+                {
+                    "image": "https://vn-live-01.slatic.net/original/f63051a396edc39bcaa754ee34162700.jpg", 
+                    "productUrl": "//www.lazada.vn/products/usb-bluetooth-music-receiver-den-i1571506-s322920306.html?search=1", 
+                    "sku": "1571506_VNAMZ", 
+                    "skuId": "322920306"
+                }
+            ], 
+            "voucherId": "203090602300530"
+        }
+    ]
+]
